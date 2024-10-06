@@ -1,9 +1,9 @@
 ---
-id: rspqbujf9c9yn1h09zgwowf
-title: Unit 1
+id: 4cokuvzyyrend2n8uax0wxm
+title: Unit1
 desc: ''
-updated: 1727972533096
-created: 1727874929092
+updated: 1728057640445
+created: 1728057486936
 ---
 # Auxilary Verbs
 Here we have be, do and have. (Used to help the main verb, making and emphasis or a question)
@@ -65,7 +65,7 @@ Time and Aspect
    - i **'m staying** with my friends until i fing an apartment
 2. The activity may not be complete
    - Who **'s been drinking** my chai latte?
-3. The actions of some verbs, by definition, lasts a long time, for example, live, work, play. The continuous gives these actions limited duration and makes them temporary.
+3. The actions of some verbs, by definition, lasts a long time, for example, live, work, play. The continuous gives these `actions limited duration and makes them temporary.
    - Sergio **is living** in Seattle while he **is working** on his new book
 4. Thee action of some verbs lasta short time **(lose, break, crash)** they are often found in the simple aspect.
    - She **'s cut** her finger 
@@ -73,3 +73,12 @@ Time and Aspect
 In the continuous the action of these verbs seems longer or habitual.
    - I **'ve been cutting** the grass
    - He **was hitting** me 
+
+# Perfect aspect
+1. The action is completed before another time
+   - **Have** you ever **been** to the USA?
+   - When i arrived, Peter **had left**
+2. The exact time of the verb action is not important. The perfect aspect refers to indefinite time.
+   - **Have** you **seen** my wallet anywhere? I've lost it
+The exception is the Past Perfect, which can refer to a definite time.
+   - She **had visited** her Japanese relatives once in 1993 before she moved in whit them in 1996.
