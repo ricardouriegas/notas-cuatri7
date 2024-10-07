@@ -2,7 +2,7 @@
 id: os35f1dcnqehv4blblfhyl5
 title: Sistemas Web
 desc: ''
-updated: 1728308317559
+updated: 1728308473896
 created: 1727875166335
 ---
 ## Objetivo
@@ -109,4 +109,9 @@ Se presenta generalmente en formato HTML y puede contener hiperenlaces a otras p
 - Consumir el contenido es la tarea mas importante 
 - Tienen varias paginas interconectadas y comunmente tienen un gestor de contenidos.
 
+## Aplicacion Web
+- Tiene como objetivo que el usuario realice una tarea o un proceso.
+- Tambien puede referirse como un programa se utiliza desde el navegador.
+- Ejemplos: servicios de banca en linea. Google drive, sitios de venta de retail, etc.
 
+## 
