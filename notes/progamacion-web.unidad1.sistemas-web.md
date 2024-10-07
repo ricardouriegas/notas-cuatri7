@@ -2,7 +2,7 @@
 id: os35f1dcnqehv4blblfhyl5
 title: Sistemas Web
 desc: ''
-updated: 1727963825356
+updated: 1728308317559
 created: 1727875166335
 ---
 ## Objetivo
@@ -84,3 +84,29 @@ Los puertos que utiliza son:
 
 ## TCP/IP
 Grupo de protocolos de red que haven posible la transferencia de datos en redes entre equipos informaticos e internet.
+
+### TCP
+Protocolo de control de trannsmision que permite establecer una conexion y el intercamvio de datos entre dos anfitrione. este protocolo proporciona un transporte fiable de datos
+
+### IP
+Protocolo de internet, untiliza direcciones en series de cuatro  octetos con formato de punto decimal (como por ejemplo '75.4.160.25'). Este protocolo lleva datos a otras maquinas de la red.
+
+## Uniform Resource Identifier (URI)
+Identificador de recursos uniforme
+- Cdena de caracteres que identifica recursos en una red
+- Los recursos son accesibles en una red o sistema
+
+![alt text](image-1.png)
+
+## Pagina web
+Es una fuente de informacion adaptaba para la WWW y  accesibel mediante un navegador de internet.
+
+Se presenta generalmente en formato HTML y puede contener hiperenlaces a otras paginas web, constituyendo la red enlazada de la WWW.
+
+## Sitio Web
+- Conjunto de paginas web tipicamente comunes a un dominio de Internet o subdominio en la WWW en internet
+- Su principal objetivo es entregar informacion
+- Consumir el contenido es la tarea mas importante 
+- Tienen varias paginas interconectadas y comunmente tienen un gestor de contenidos.
+
+
