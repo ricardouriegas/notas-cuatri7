@@ -2,7 +2,7 @@
 id: 2y9w1lgarmp8iowxap2bq4z
 title: Idea
 desc: ''
-updated: 1728218033410
+updated: 1728330293915
 created: 1728065713204
 ---
 
@@ -18,6 +18,10 @@ Este software está dirigido tanto al sector empresarial como al gubernamental, 
 **ODS 16: Paz, justicia e instituciones sólidas**
 
 **Justificación del alineamiento:** Este proyecto contribuye a reducir la corrupción y fortalecer la transparencia en las instituciones, tanto en el sector público como privado. El ODS 16 busca crear instituciones justas y responsables, y este software promueve precisamente eso, al involucrar tanto a empresas como al gobierno en procesos de auditoría y evaluación continua.
+
+
+### Sector
+Sector empresarial y gubernamental.
 
 ## 4. Herramientas de TI integradas en la propuesta
 

@@ -2,7 +2,7 @@
 id: c14ico2xhl54apthq0ffm6k
 title: Introduccion
 desc: ''
-updated: 1728064634429
+updated: 1728324106837
 created: 1727975666385
 ---
 # La comunicacion: Definicion, elementos y procesos

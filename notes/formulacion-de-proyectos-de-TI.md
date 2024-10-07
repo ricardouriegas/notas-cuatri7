@@ -2,7 +2,7 @@
 id: w3ai54pbuzmgmof4rf6u7so
 title: formulacion-de-proyectos-de-TI
 desc: ''
-updated: 1728218172952
+updated: 1728325466565
 created: 1728217139137
 ---
 ## ¿Qué es un problema? (Departamento Nacional de Planeación de Colombia, 2024). 
@@ -15,3 +15,6 @@ Las causas del problema explican los motivos por los cuales se están presentand
 
 Los efectos del problema son las manifestaciones o consecuencias de este.
 
+## Que es el objetivo
+
+El objetivo a diferencia del problema es lo que se visualiza ya resuleto el problema, es decir, es el estado deseado.

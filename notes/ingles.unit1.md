@@ -2,7 +2,7 @@
 id: 4cokuvzyyrend2n8uax0wxm
 title: Unit1
 desc: ''
-updated: 1728057640445
+updated: 1728317962695
 created: 1728057486936
 ---
 # Auxilary Verbs
@@ -82,3 +82,23 @@ In the continuous the action of these verbs seems longer or habitual.
    - **Have** you **seen** my wallet anywhere? I've lost it
 The exception is the Past Perfect, which can refer to a definite time.
    - She **had visited** her Japanese relatives once in 1993 before she moved in whit them in 1996.
+
+# Passive voice
+Passive voice formula | Example | How to identify
+--- | --- | ---
+Object + be verb + past participle + by + subject (optional) | **Present:** <br> The cake is being eaten by the dog <br> **Past:** <br> The cake was eaten by the dog <br> **Future:** <br> The cake will be eaten by the dog | The subject of your sentence is being acted upon by the verb. <br> The sentence does not clearly state who or what is performing the action. <br> The word "by" is used to indicate who or what is performing the action.
+
+# Exercises
+Rewrite the senteces by changing by changing the active into the passive or vice versa
+1. Shakespeare wrote Romeo and Juliet
+   - _Romeo and Juliet was written by Shakespeare_
+2. The telephone was invented by Alexander Graham Bell
+   - _Alexander Graham Bell invented the telephone_
+3. The Statue of Liberty was given to the USA by France
+   - _France gave the Statue of Liberty to the USA_
+4. Two sisters wrote "The Happy Birthda" song in 1893
+   - _"The Happy Birthday" song was written by two sisters in 1893_
+5. Ada Lovalance wrote the first ever computer code in 1843
+   - _The first ever computer code was written by Ada Lovalance in 1843_
+6. The arabs introduced pasta to Italy
+   - _Pasta was introduced to Italy by the arabs_
