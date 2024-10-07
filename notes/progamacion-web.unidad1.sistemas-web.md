@@ -2,7 +2,7 @@
 id: os35f1dcnqehv4blblfhyl5
 title: Sistemas Web
 desc: ''
-updated: 1728308473896
+updated: 1728309497302
 created: 1727875166335
 ---
 ## Objetivo
@@ -114,4 +114,40 @@ Se presenta generalmente en formato HTML y puede contener hiperenlaces a otras p
 - Tambien puede referirse como un programa se utiliza desde el navegador.
 - Ejemplos: servicios de banca en linea. Google drive, sitios de venta de retail, etc.
 
-## 
+## Portal web
+Es un sitio web cuya caracterisitca fundamental es la de serir de puerta de entrada (unica) para ofrecer al usuario, de forma facil e integrada el acceso a una serie de recursoss y de servicios relacionados a un mismo tema.
+
+## Diferencias entre sistios web y aplicaciones web
+
+Sitio Web | Aplicacion Web
+--- | ---
+Los sitios web son fuentes de informacion, mientras que las aplicaciones se centran en la realizacion de acciones | Una aplicaion web puede ser parte de un sitio en un proyecto pero no alreves. <br> Las funciones y tareas de una aplicacion son muchas mas y tienen un nivel de complejidad mas elevadas.
+
+### HyperText Markup Language | HTML
+- Lenguaje de mercado de hipertexto
+- Se usa para la elaboracion de paginas web 
+- Permite las estructuracion las paginas con un lenguaje basado en etiquetas.
+
+## Cascading Style Sheets | CSS
+Lenguaje e diseño para definir y crear la presentacion de un documento estructurado escrito en HTML.
+
+Creado para separa r el contenido del documento y la forma en que se presenta.
+
+## JavaScript | JS
+- Lenguaje de programacion interpretado
+- Codigoque se usa principalmente del lado del cliente, porque lo puede ejeuctar el navegador
+- Permite mejoras en la interfaz del usuario
+- Estandas ECMAScript
+
+## Tencologias / Lenguajes del Lado del Servidor
+- PHP
+  - Laravel | Symfony | CodeIgniter | CakePHP
+- ASP .NET (ASP .NET)
+  - ASP .NET MVC | Razos Pages | Web API
+- Python
+  - Django | Flask | Fast API
+- Java
+  - JSP | Spring Boot
+- JavaScript (Node JS)
+  - ExpressJS | NestJS
+
