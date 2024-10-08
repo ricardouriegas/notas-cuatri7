@@ -2,7 +2,7 @@
 id: os35f1dcnqehv4blblfhyl5
 title: Sistemas Web
 desc: ''
-updated: 1728309497302
+updated: 1728395102928
 created: 1727875166335
 ---
 ## Objetivo
@@ -151,3 +151,31 @@ Creado para separa r el contenido del documento y la forma en que se presenta.
 - JavaScript (Node JS)
   - ExpressJS | NestJS
 
+## Funcionamiento de la web
+El priemr paso consiste en traducir la parte nombre del servidor de la URL en una direccion IP usando la bse de datos distribuida de internet conocida como DNS. Esta direccion IP es necesaria para contactar con el servidor web y poder enviarle paquetes de datos.
+
+## Funcionamiento de la WEB
+El siguiente paso es enviar uuna peticion HHTP al servidor web solicitando el recurso. En el caso de una pagina web tipica primero ses solicita el texto HTML y luego es imediatmamente analizado por el navegador, el cual, despues hace peticiones adicionalespara los graficos y otros ficheros que formen parte de la pagina.
+
+Al recibir los ficheros solicitados desde el servidor web, el navegador represente (renderiza) la pagina tal y como se descruibe en el codigo HTML, el CSS y otros lenguajes web.
+
+
+## Configuracion de Servidores de Desarrollo Web
+### Servidor Web
+Progama informatico que procesa una apliacion del lado del sservifor realizando conexiones bidireccionales y/o unidireccioinales sincronas o asincronas con el cliente y generados o cediendo una respuesta en cualquier lengaje o aplicacion del lado del cliente.
+
+### Servidor Web - Ejemplos 
+- Apache
+- Cherokee 
+- Nginx 
+- IIS (Internet Information Services)
+- Lighttpd 
+- Kestrel 
+
+```HTML
+<!-- Peticion get -->
+<form action="pagina.php" method="get">
+  <input type="text" name="nombre">
+  <input type="submit" value="Enviar">
+</form>
+```
