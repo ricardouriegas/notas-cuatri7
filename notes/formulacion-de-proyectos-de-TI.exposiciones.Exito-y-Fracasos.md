@@ -1,9 +1,9 @@
 ---
-id: t3hytz58e7i7tovg9uuzqlb
-title: Exito Y Fracaso
+id: lt4cjj7v4nmt1cfklb9emqe
+title: Exito y Fracasos
 desc: ''
-updated: 1728329383204
-created: 1728325995857
+updated: 1728414985041
+created: 1728414985042
 ---
 ## Que es exito?
 Cumplir con tiempo, presupuesto, calidad y expectativas del cliente
