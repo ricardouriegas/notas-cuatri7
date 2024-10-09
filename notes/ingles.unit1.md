@@ -2,7 +2,7 @@
 id: 4cokuvzyyrend2n8uax0wxm
 title: Unit1
 desc: ''
-updated: 1728408491309
+updated: 1728489791035
 created: 1728057486936
 ---
 # Auxilary Verbs
@@ -169,20 +169,30 @@ Future Perfect | They will have been made
 ### Discussing grammar
 Compare the meaning in the pairs of the sentence. Which tenses are used? Why? Discuss your answer with a partner
 1. Diego **comes** from Mexico (**_Simple present_**)
-   1. Diego is coming from mexico (**_present continuous_**)
+   - Diego is coming from Mexico (**_present continuous_**)
 2. What were you doing when the accident happend? (**_past continuos_**)
-   1. What did you do when the accident happend? (**_simple past_**)
+   - What did you do when the accident happend? (**_simple past_**)
 3. I've lived in singapore for five years (**_present perfect_**)
-   1. i lived in singapore fro five years (**_simple past_**)
+   - i lived in singapore fro five years (**_simple past_**)
 4. When we arrived, he cleaned the apartment (**_simple past_**)
-   1. When we arrived, he'd cleaned the apartment  (**_past perfect_**)
+   - When we arrived, he'd cleaned the apartment  (**_past perfect_**)
 5. We'll have dinner at 8:00 right? (**_future simple_**)
-   1. Dont call at 8:00. We'll be having dinner (**_future continuos_**)
+   - Dont call at 8:00. We'll be having dinner (**_future continuos_**)
 6. I didnt teach english very well (**_simple past_**)
-   1. i wasnt taught english very well (**_simple passive_**)
+   - i wasnt taught english very well (**_simple passive_**)
 7. How much are you payin to paint the house? (**_present contunous_**)
-   1. How much are you being paid to paint the house? (**_present coninous passive_**)
+   - How much are you being paid to paint the house? (**_present coninous passive_**)
 8. Youre very kind. Thank you (**_Simple present_**)
-   1. You're being very kind. What do you want? (**_present continous_**)
+   - You're being very kind. What do you want? (**_present continous_**)
 
-
+## Excercise 5
+1. On weekends i often **go** to the beach
+2. My parents have never **been** to the USA
+3. I dont think ill ever **understand** the stock market
+4. I was saying to a friend just the other day that i **dont** like the cold
+5. I hate Mondays because i **have** to go to work
+6. I'd just gotten home last night when the phone **rang**
+7. I was just getting ready to go out this morning when the phone **rang**
+8. I've been told that our teacher **is** very strict
+9. In my very first English class i was taught that the verb **be** is very important
+10. The reason im learning english is bc i **want** to travel the world
