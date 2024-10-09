@@ -2,7 +2,7 @@
 id: c14ico2xhl54apthq0ffm6k
 title: Introduccion
 desc: ''
-updated: 1728324106837
+updated: 1728494532770
 created: 1727975666385
 ---
 # La comunicacion: Definicion, elementos y procesos
@@ -191,3 +191,68 @@ Se centra en el emisor y en sus emociones y sentimientos
 ## Funcion fatica
 Consiste en iniciar, interrumpir, continuar o finalizar la comunicacion
 - Ejemplo: "Hola"
+
+# Teoria de la burocracia
+La teoria burocratica suge en la decada de los cuarenta a partir de los estudios derivados de 
+
+Fue una respuesta a algunos problemas sociales en la epoca, habiendo un gran avance tecnologico y de empresas. Por la necesidad de buscar un modelo de organizacion.
+
+## Caracteristicas de la burocracia
+1. Caracter legal de las normas: organizacion unida por normas 
+2. Caracter formal de las counicaciones  las relgas, desciciones y acciones administrativas
+   
+3. Caracter racional y division del trabajo  Hay una division del trabajo
+4. Impersonalidad: 
+
+- Deben de ser conocidgo por todos y contemplar sanciones para quienes no lo sigan
+- Toda la comunicacion debe hacerse por escrito y seguir los canales formales 
+- Diviosn racional del trabajo (actividades diferenciadas y puestos de trabajo claros)
+- Impersonalidad de las relaciones (enfocado a describir las actividades de los cargos)
+Autoridad y jerarquia
+- Procedimientos estandarizados de trabajo (cada tarea para cumplir un tranajo debe dividirse en partes para que culquiera que ocupe el puesto lo pueda entender)
+- Promocion de competencia (los trabajaores mas expertos deben ocupar puestos mas altos)
+- Administradores especialistas
+- Profesionalizacion del trabajo (cada trabajador es un perfil profesional de su area)
+- El comportamiento de cada trabajador se vuelve previsible (supervisar facilmanete las actividades)
+
+# Teoria de las relaciones humanas
+El enfoque es en las personas. La teoria esta en las personas:
+- Con su amplia gama de necesidades, deseos, motivaciones y problemas
+- No en las actividades ni la estructura de la organizacion
+
+Surge en USA a raiz del desaarrollo de las ciencias de la conducta, en especial de la psicologia industrial.
+El enfoque considera la relaciones informales de trabajo y la satisfaccion del trabajador.
+
+Elton mayo en 1927 en Western Electric de Chicago, la teoria nace apartir de corregir la fuesrte tendencia a la deshumanizacion del trabajo.
+
+Vairables de la productividad del trabajo:
+- La intergracion social y las relaicones interpersonales
+- El grupo de trabajo y
+- la existencia de grupos informales
+
+## Importancia de las relaciones interpersonales 
+Las relaciones entre empleados son fundamntales para la satisfaccion y la productividad en el trabajo
+
+## factores psicologicos
+El bienestar mocional y psicologico de los trabajadores influye en su produccion.
+
+
+## efecto hawthorne 
+Este fenomeno se refieres a como los camvios en el entorno laboral pueden afectar a la productividad, pero tambien muestra que la atencion y el interes de la gerencia en los empleado spuede mejorar el rendimiento
+
+## trabajo en equipo 
+La colaboracion y el trabajo en grupo son crusiales Puede afectar a la motivacion y ...
+
+## Liderazgo participativo
+Un estilo de liderazgo que incolucra  a lso empleados en la toma de desiciones promueve un ambien te de trabajo ositivo y productivo 
+
+## Comunicacion abierta
+...
+
+## Aportacione  de lal teroia de las relaiciones humanas
+- Introduce el concepto de motivacion
+
+Segun el estudio de las necesidades humanas destacan:
+- Alimentarse
+- Dormir
+
