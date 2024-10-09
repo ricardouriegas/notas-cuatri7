@@ -2,7 +2,7 @@
 id: os35f1dcnqehv4blblfhyl5
 title: Sistemas Web
 desc: ''
-updated: 1728395102928
+updated: 1728482382364
 created: 1727875166335
 ---
 ## Objetivo
@@ -179,3 +179,12 @@ Progama informatico que procesa una apliacion del lado del sservifor realizando 
   <input type="submit" value="Enviar">
 </form>
 ```
+### Que es el desarrollo web
+- Define la creacion de sitios web o aplicaciones web para internet. 
+- Hace uso de tecnologias de software del lado del servidor y del cliente.
+- Involucra una combinaicon de procesos de base de datos con el uso de un navegador web a fin de realizar determinadas tareas o mostrar informacion.
+
+### Entornos de dessrollo web en PHP
+- XAMPP
+- WAMP
+- LAMP MAMP
