@@ -1,6 +1,6 @@
 ---
 id: w3ai54pbuzmgmof4rf6u7so
-title: formulacion-de-proyectos-de-TI
+title: Formulacion de Proyectos de TI
 desc: ''
 updated: 1728325466565
 created: 1728217139137
