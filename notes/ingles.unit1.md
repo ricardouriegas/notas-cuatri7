@@ -2,7 +2,7 @@
 id: 4cokuvzyyrend2n8uax0wxm
 title: Unit1
 desc: ''
-updated: 1728489791035
+updated: 1728576059056
 created: 1728057486936
 ---
 # Auxilary Verbs
@@ -195,4 +195,47 @@ Compare the meaning in the pairs of the sentence. Which tenses are used? Why? Di
 7. I was just getting ready to go out this morning when the phone **rang**
 8. I've been told that our teacher **is** very strict
 9. In my very first English class i was taught that the verb **be** is very important
-10. The reason im learning english is bc i **want** to travel the world
+10. The reason im learning english is bc i **wantm** to travel the world
+
+
+## Compound words
+Are words that are made up of two or more words that are joined together to create a new word woth a new meaning:
+- tooth + brush = toothbrush
+- eco + friendly = eco-friendly
+- animal + lover = animal lover 
+
+### exercise
+How many compounds can you make by combining the words in the circle with the words around it?
+![alt text](image-7.png)
+
+1. homemade
+2. homework\
+3. housework
+4. homecoming 
+4. houseplant
+5. hometown
+6. housewife
+7. housebound
+8. homebound
+9. homesick
+10. homepage
+11. housewarming
+12. homewarming
+13. houseproud
+14. homeproud
+15. homeless
+16. homegrown
+
+### another exercise (3 on the book page 8)
+1. Do you think you could possible water my **houseplants** for me?
+2. Dont worry, I know how **houseproud** you are.
+   - Ill make sure everything stays neat and clean
+3. Lets give her spectacular **housewarming** party when she gets back
+4. Me? Im just a **housewife**. Four kids, **homemade** cakes, and **houseplant** vegetables
+5. Were having a **housebound** party on the 12th
+   - can you come? Ill give you our new address
+6. Of course theres much more **homework** to do!
+   - More rooms to clean!
+7. I never tought youd be so **homesick**
+8. Shes sick and **homebound**, so they have to help
+

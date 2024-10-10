@@ -2,7 +2,7 @@
 id: os35f1dcnqehv4blblfhyl5
 title: Sistemas Web
 desc: ''
-updated: 1728482382364
+updated: 1728571109779
 created: 1727875166335
 ---
 ## Objetivo
@@ -185,6 +185,7 @@ Progama informatico que procesa una apliacion del lado del sservifor realizando 
 - Involucra una combinaicon de procesos de base de datos con el uso de un navegador web a fin de realizar determinadas tareas o mostrar informacion.
 
 ### Entornos de dessrollo web en PHP
-- XAMPP
+- XAMPP /opt/lampp
 - WAMP
-- LAMP MAMP
+- LAMP 
+- MAMP
