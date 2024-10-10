@@ -256,3 +256,36 @@ Segun el estudio de las necesidades humanas destacan:
 - Alimentarse
 - Dormir
 
+# Conceptos, caracteristicas y tecnicas para las relaciones humanas
+La forma en que nos relacionamos es un papel mu importante en las fucniones de diferenctes ambitos, de ello va depender un buena resulucion de conflictos y expresion.
+
+## Relaciones humanas
+LSon las interaccion es y vinculos que se establecen entre las personas en diversos contextos ya sea en el ambito personal o laboral
+
+A traves de ellas podemos expresar sentimientos, compartir experienciasd y apoyarse mutuamente.
+
+### Cumunicacion efectiva
+Es la clave para construir realciones solidas y exitosas en todo ambtios, transmitir ides, pensamientos, emociones. Ser claro
+
+### saber escuchar 
+Escuchar activamente a los demas es igual de importante pues demuestra empatia y respeto hacia sus perspectivas
+
+## importancia de las realaciones humanas
+- redes de apoyo
+- coumicacion y aprendizaje
+- sentido de pertenencia
+- bienestar emocional
+- desarrollo personal
+
+### Datos 
+Cuando establecemos un buen viculo con las personas obtenemos:
+- salud fisica
+- sentido de pertencia (mejor autesitma, mejor desarrollo de nuestras capacidad)
+
+## aspectos que una person aporta a tu vida 
+- amistad
+- amor
+- cariño
+- alegria
+- compañia
+
