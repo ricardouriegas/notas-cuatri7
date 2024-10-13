@@ -6,7 +6,7 @@ updated: 1728414985041
 created: 1728414985042
 ---
 ## Que es exito?
-Cumplir con tiempo, presupuesto, calidad y expectativas del cliente
+Cumplir con tiempo, presupuesto, calidad y expectativas del cliente.
 
 ## Caracteristicas de proyectos de TI exitosos
 - Cumplimiento de plazos y presupuesto

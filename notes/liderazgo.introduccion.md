@@ -289,3 +289,78 @@ Cuando establecemos un buen viculo con las personas obtenemos:
 - alegria
 - compañia
 
+# Relaciones interpersonales
+## Importancia de las relaciones interpersonales
+- Colaboraion
+- Confianza 
+- Resolucion de conflictos
+- Motivacion
+
+## Relacion con la comunicacion efectiva
+- Efectiva
+  - Implica la transmision clara y precisa 
+  - Escencial para establecer relaciones saludables
+- Asertiva
+  - Capacidad de expresar pensamientos, setnidmientos y necesidades de manera directa y respetuosa
+  - Fomenta relaciones positivas ya que permite comuncarse sin miedo
+- Buena resoucion de conlfictos
+  - Reduce las relaciones de tension
+
+## Caracteristicas de la comunicacion efectiva
+- Claridad
+- Conciso
+- Correcto
+- Compania
+- Corteis
+- Concreto 
+- Completo 
+- Consultar 
+
+### Tips para la comunicacion asertiva
+1. Escuchar y evaluar el contexto
+2. Utilizar un lenguaje sencillo en primera persona, con palabras positivas
+3. Tono y lenguaje no verbal tabmien hace parte del mensaje
+4. Transmitir confiaza, ser coherente y respetar a otros
+5. Cuidar de nuestras emociones
+6. Asegurarse de que el mensaje se entendio con exito
+
+## Interaccion entre relaciones interpersonales y comunicacion
+- Ciclo positivo: Realciones interpersonales solidas que promueven una comunicacion efectiva
+- Ambiente de trabajo: Un entorno donde prevalece la comunicacion efectiva y asertivaes porpicio para construir relralciones positivas
+- DEsempeno organizacional: La sinergia entre relaciones entre interpersonales y comunicacion edectiva puede traducirse en mejor desempeno.
+
+## RElacion con el liderazgo organizacional
+1. Claridad en las Visiones y Metas
+   1. Un lider comunica de manera clara y consiste metas y la vision de la organizacion y esto ayuda a los empledos a entender el proosito y direccion de trabajo.
+2. Construccion de confianza 
+   1. La comunicacion abierta y honesta fomenta la confianza entre el lider y miembros del equipo.
+3. Fomento de la colaboracion:
+   1. Un buen lider utiliza la comunicacion para domentar la colaboracion. Al facilitar el intercambio de ideas y el dialogo constructivo
+4. Resolucion de conflictos
+   1. Comunicarse de merna asertiva y empativa permite a los lideres resolver los conflictos forma efectiva
+5. Motivacion y compromiso
+   1. La comunicacion positiva y motivadora inspira a los empleados a hacer sus actividades de la mejor manera. Esto proporcionando una restroalimentacion constructiva
+6. Adaptibilidad  y flexibilidad
+   1. Un lider que comunica bien es capaz de mantener al equipo efectivo y enfocado
+7. Desarrollo  del talento.
+   1. Es escencial para el desrrollo de los empleados que el lider de una comunicacion efectiva
+
+## Conclusion
+Las realciones interpersonales son la base sobre la cual se construye la comunicacion efectiva y asertiva en las organizaciones. Promover un embiente donde estas interacciones sean postivas no solo mejora ls calidad del trabajo sino que tambien sontribuye al bienestar general de los empleados.
+
+Una buena comuniacion no solo mejora el liderazgo sino que tambien va a transformar la cultura organizacional. Los lideres que se comunicaon de manera efectiva pueden inspirar, motivar y guiar.
+
+# Tarea (mandar al correo jcastillom@upv.edu.mx)
+
+Reporte de investigacion (individual)
+- Donde se describa los conceptos, caracteristicas y propositos del liderazgo
+- Identificar las principales teorias del liderazgo
+- Explicar los principales tipos de liderazgo
+
+Extension minima de 10 plantillas
+Portada
+Introduccion
+Desarrollo (cuerpo)
+Cierra(conclusion)
+Referencias (minimo 10)
+APA 7

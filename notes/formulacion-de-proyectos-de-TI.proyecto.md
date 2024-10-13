@@ -10,6 +10,6 @@ created: 1728483302517
 - sector donde esta
 - ODS alineado
 - donde implica la TI en el proyecto
-- Si el solucion ya existe, entonces en que estoy inovando?
+- Si la solucion ya existe, entonces en que estoy inovando?
 
 Todo justificado

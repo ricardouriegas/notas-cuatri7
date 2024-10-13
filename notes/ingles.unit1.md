@@ -2,7 +2,7 @@
 id: 4cokuvzyyrend2n8uax0wxm
 title: Unit1
 desc: ''
-updated: 1728576059056
+updated: 1728662509104
 created: 1728057486936
 ---
 # Auxilary Verbs
@@ -239,3 +239,24 @@ How many compounds can you make by combining the words in the circle with the wo
 7. I never tought youd be so **homesick**
 8. Shes sick and **homebound**, so they have to help
 
+# Present Perfect
+It is used for past actions that are related to or continue into the present.
+> subject + have/has+ past participle + complement
+
+They have played piano since the age of three. 
+
+## Negative form 
+> subject + have/has+ not +past participle + complement
+
+## Questions
+> have/has+ subject + past participle + complement?
+
+# Present Perfect Continuous
+## Positive
+> subject + have/has + been + verb -ing + complement
+
+## Negative
+> subject + have/has+ not + been + verb -ing + complement
+
+## Question
+> have/has+ subject + been + verb -ing + complement?
