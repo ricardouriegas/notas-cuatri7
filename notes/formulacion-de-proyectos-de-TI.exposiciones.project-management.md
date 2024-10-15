@@ -24,3 +24,33 @@ created: 1729019498930
 - Formacion y desarrollo profesional
 - Red de contactos
 
+## Concepto de ciclo de vida del proyecto
+El ciclo de vida del proyecto es el conjunto de fases que un proyecto atraviesa desde su iniio hasta su finalizacion. Estas fases proporcionan una estructura bascia para la planificacion, ejecucion y gestion de un proyecto, varian en funcion del tipo de proyecto o del enfoque metodologico utilizado.
+
+## En que consiste
+PMBOK es una guia de referencia que contempla un conjunto de conceptos, temrminologias , metodos y recomendaciones para un proyecto
+
+### Caracteristicas
+- Termporalidad
+- Unicidad
+- Verticalidad en los proyectos
+- Contempla 10 areas de conocimiento necesarias para la egecucion de un proyecto.
+
+#### Areas de conocimiento
+1. Integracion
+2. Alcance
+3. Tiempo
+4. Costos
+5. Calidad
+6. Recursos
+7. Comunicaciones
+8. Riesgos
+9. Adquisisiones
+10. Partes interesadas
+
+## Fases de un proyecto
+- Inicio
+- Planificacion
+- Ejecucion
+- Control
+- Cierre
