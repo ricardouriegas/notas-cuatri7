@@ -2,13 +2,19 @@
 id: 1nwuxehben4whlu5rjg29wu
 title: News Project
 desc: ''
-updated: 1728954271022
+updated: 1729007440912
 created: 1728949548678
 ---
 ## Opening
 _Music and intro stuff_
 Welcome, welcome, welcome.
 In today news im going to give all my trust in andres navi, he just told me that a tragic event happend, follow me to the story.
+
+---
+<!-- ## Serius news
+_In the cafeteria_
+Good morning, afternoon, evening or night, I'm andres navi reporting.
+We r at the  -->
 
 ## First new
 Good morning, afternoon, evening or night, I'm andres navi reporting about a tragic event that just happend.
@@ -20,13 +26,13 @@ Over the past week the school bathrooms have been closed due to a unknown reason
 
 _scene change to the other building_
 
-I enter the bathroom and i felt the heaven, i was saved, i was happy, i experienced the best thing i could ever imagine. I was saved.
+I enter the bathroom and i felt the heaven, i was saved, i was happy, i experienced the best thing i could ever imagine.
 Hope you dont have to experience the same thing i did, today the bathrooms still closed like always, so be careful.
 Thats my report, see you next time.
 
 ## Second new
 _Music and transition_
-Allright, that was a really wired story, but now we are going to talk about the weather. The weather is going to be really hot, so make sure to drink some water. And talking about water, this doesnt make sense, but yesterday i listen to a really great song that i want to share with you, its called "watermelon sugar" by harry styles, i hope you enjoy it.
+Allright, that was a really weird story, but now we are going to talk about the weather. The weather is going to be really hot, so make sure to drink some water. And talking about water, this doesnt make sense, but yesterday i listen to a really great song that i want to share with you, its called "watermelon sugar" by harry styles, i hope you enjoy it.
 
 ## Third new
 _Music and transition_

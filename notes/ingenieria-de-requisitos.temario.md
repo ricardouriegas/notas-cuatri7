@@ -6,7 +6,6 @@ updated: 1727739607081
 created: 1727739553520
 ---
 
-
 # Unidad 1. Fundamentos de ingeniería de requisitos
 Especificación de requisitos
 Procesos de la ingeniería de requisitos
