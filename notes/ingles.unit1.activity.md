@@ -67,12 +67,12 @@ created: 1728921721290
     1.  Health problemas; diarrhea and some insects
 
 ## Act 5
-1. We **have drived** over 500 miles yesterad
-   1. We **have** already **drived** 200 miles today
+1. We **drove** over 500 miles yesterad
+   1. We **have** already **driven** 200 miles today
    2. We **have been driving** for hours whithout a break
 2. **Have** you ever **tried** korean food?
-   1. **have** you **tried** kimichi when you are in seul?
-3. How many times **have** you **gone** to america?
+   1. **Did** you **try** kimichi when you are in seul?
+3. How many times **have** you **been** to america?
    1. How many time **did** christopher columus **go** to america?
 4. My aun **has been living**  in the same house since she was born
    1. I **have been living** with her for the past month while i look for a job
@@ -80,3 +80,23 @@ created: 1728921721290
 ## act 6
 match a line in a with a line in b
 ![alt text](image-11.png)
+1
+2
+
+1
+2
+
+2
+1
+
+2
+1
+
+1
+2
+
+1
+2
+
+## act 7
+![alt text](Screenshot_20241016_103324.png)

@@ -38,4 +38,8 @@ Sector empresarial y gubernamental.
 ## 5. Justificación del impacto de la propuesta
 Actualmente, muchos mecanismos anticorrupción dependen de auditorías internas que pueden estar sesgadas o controladas por los propios intereses de la empresa. Esta propuesta cambia la dinámica al crear un sistema de auditorías mutuas entre empresas y un organismo gubernamental, con auditorías sorpresivas y descentralizadas. Además, al incluir al gobierno como auditor externo, se incrementa la objetividad en los resultados. La naturaleza colaborativa del software incentiva a las empresas a mantenerse en línea con las mejores prácticas, ya que su reputación estará en juego frente a sus pares y al sector público.
 
+## Objetivos
+### Objetivo General
+El objetivo general del proyecto es desarrollar un software colaborativo de evaluación anticorrupción que permita a empresas y al gobierno auditar y evaluar mutuamente sus prácticas
 
+### Objetivos Especificos
