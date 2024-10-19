@@ -2,7 +2,7 @@
 id: c3llu3hmg3tqlxb693joe7h
 title: Activity
 desc: ''
-updated: 1729009320796
+updated: 1729267508577
 created: 1728921721290
 ---
 1. Work in pairs. What is strange about these sentences? What should they be?
@@ -100,3 +100,42 @@ match a line in a with a line in b
 
 ## act 7
 ![alt text](Screenshot_20241016_103324.png)
+**B (Bernie) says their activity was uneventful at first. Why?**
+
+Bernie mentions that nothing exciting happened during the first 30 minutes while they were sailing around, just waiting for something to happen.
+
+**C (Carol) didn't finish their activity. Why not?**
+
+Carol couldn’t finish because she got scared. The rain, wind, and slippery rocks made the descent too difficult, and she was so paralyzed with fear that she had to come down slowly.
+
+**A (Alan) describes the sound they heard. What was it like?**
+
+Alan describes the sound as a sort of buzzing noise, though he points out that not everyone could hear it.
+
+**B (Bernie) was surprised by the size of what they saw. How do they describe it?**
+
+Bernie was shocked by the size of the creature they saw leaping out of the water, describing it as huge and completely unexpected.
+
+**A (Alan) has done the activity twice. Which time was better?**
+
+Alan has seen the lights twice, and the second time was the most amazing because the lights were directly overhead, covering the entire sky.
+
+**C (Carol) had their activity ruined by the weather. How?**
+
+Carol’s experience was ruined by the rain and wind, which made the hike dangerous and difficult. Plus, she wasn’t dressed for the bad weather.
+
+## Act 8
+Put the words in the right box
+![alt text](image-12.png)
+
+Make | Do
+---|---|
+a decision | a good impression
+bussines | arrangements
+your best | a difference
+a good job | a profit 
+research | a move
+sb a favor | progress
+- | an effort
+- | smt clear
+- | a suggestion
