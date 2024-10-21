@@ -2,7 +2,7 @@
 id: c3llu3hmg3tqlxb693joe7h
 title: Activity
 desc: ''
-updated: 1729267508577
+updated: 1729527944004
 created: 1728921721290
 ---
 1. Work in pairs. What is strange about these sentences? What should they be?
@@ -136,6 +136,20 @@ your best | a difference
 a good job | a profit 
 research | a move
 sb a favor | progress
-- | an effort
-- | smt clear
-- | a suggestion
+-- | an effort
+-- | sth clear
+-- | a suggestion
+
+## Act 9
+Complete the sentence with some of the expression in 2
+1. When you go for a job interview, its important to **make a good impression**
+2. I think we're all getting tired. Can I **make a suggestion**? How about a break?
+3. A lot of **research** has been **done** about the causes of cancer
+4. I think the CEO is basically **doing a good job**. He's reliable, hes honest, and he gets results
+5. I'd like to **make a move** right now that i am totally opposed to this idea
+6. We cant **make a profit** in this bussines if we dont raise prices
+7. I dont mind if we go now or later. It **makes** no **difference** to me
+8. Could you **do** me **a favor** and lend me some money?
+
+## Act 10
+![alt text](image-13.png)

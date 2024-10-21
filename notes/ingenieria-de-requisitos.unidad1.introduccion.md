@@ -2,7 +2,7 @@
 id: pmjaaooeymwm829ogcevn7v
 title: Conceptos Basicos
 desc: ''
-updated: 1728592851050
+updated: 1729479549354
 created: 1728590488698
 ---
 ## Conceptos de la basicos de la ingeneria de rquesitos
