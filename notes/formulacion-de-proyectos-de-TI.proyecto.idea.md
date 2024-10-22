@@ -2,7 +2,7 @@
 id: 2y9w1lgarmp8iowxap2bq4z
 title: Idea
 desc: ''
-updated: 1728330293915
+updated: 1729626460351
 created: 1728065713204
 ---
 
@@ -43,3 +43,10 @@ Actualmente, muchos mecanismos anticorrupción dependen de auditorías internas 
 El objetivo general del proyecto es desarrollar un software colaborativo de evaluación anticorrupción que permita a empresas y al gobierno auditar y evaluar mutuamente sus prácticas
 
 ### Objetivos Especificos
+- Desarrollar una plataforma web segura y escalable que permita a las empresas y al gobierno realizar evaluaciones de integridad y transparencia.
+- Implementar algoritmos de machine learning para analizar los datos de las evaluaciones y detectar posibles comportamientos corruptos.
+- Garantizar la confidencialidad y seguridad de los datos de las evaluaciones mediante sistemas de autenticación y cifrado.
+- Facilitar la generación de informes detallados y análisis predictivos basados en los resultados de las evaluaciones.
+- Promover la colaboración y transparencia entre empresas y el gobierno para reducir la corrupción y fortalecer la integridad en el sector empresarial.
+- Contribuir al ODS 16: Paz, justicia e instituciones sólidas, mediante la creación de un sistema que
+- fomente la transparencia y la rendición de cuentas en las relaciones comerciales.

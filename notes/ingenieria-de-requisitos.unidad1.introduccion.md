@@ -2,7 +2,7 @@
 id: pmjaaooeymwm829ogcevn7v
 title: Conceptos Basicos
 desc: ''
-updated: 1729479549354
+updated: 1729562769434
 created: 1728590488698
 ---
 ## Conceptos de la basicos de la ingeneria de rquesitos
@@ -53,7 +53,7 @@ Asegurar qu el sistema cumpla con las necesidades de los stakeholers y las restr
 - Reguladores o autoridades de control
 
 #### Skateholders directos 
-- aquellos que interactuan idrectamente con el sisteam o tienen un impacto inmediato en su desrrollo.
+- aquellos que interactuan directamente con el sisteam o tienen un impacto inmediato en su desrrollo.
 - Ejemplo: Usuarios finales, desarrolladores.
 
 #### Skateholders indirectos
