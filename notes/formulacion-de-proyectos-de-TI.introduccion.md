@@ -2,10 +2,9 @@
 id: mial5a0mhooucezuvoun3wj
 title: Buenas prácticas de la metodología PMBOK aplicables a proyectos de TI
 desc: ''
-updated: 1727789719712
+updated: 1729535575217
 created: 1727742789378
 ---
-# Buenas prácticas de la metodología PMBOK aplicables a proyectos de TI
 
 El **PMBOK (Project Management Body of Knowledge)** es un estándar internacionalmente reconocido, desarrollado por el **Project Management Institute (PMI)**, que agrupa un conjunto de buenas prácticas y principios para la gestión de proyectos. En proyectos de TI, el uso del PMBOK ayuda a estructurar, planificar y ejecutar proyectos de manera eficiente, asegurando que se cumplan los objetivos estratégicos, tanto técnicos como de negocio. A continuación, se presentan las mejores prácticas de PMBOK aplicadas a proyectos de TI, organizadas según las áreas de conocimiento.
 

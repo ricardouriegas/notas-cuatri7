@@ -1,8 +1,8 @@
 ---
 id: 28tfmxij3xprmze5v0lfna4
-title: Objetivos-de-Desarrollo-Sostenible
+title: Objetivos de Desarrollo Sostenible
 desc: ''
-updated: 1727790022526
+updated: 1729536939824
 created: 1727789879022
 ---
 # Objetivos de Desarrollo Sostenible (ODS)

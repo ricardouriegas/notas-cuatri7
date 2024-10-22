@@ -2,18 +2,22 @@
 id: udse3f1jf6apgthkhau89wr
 title: Actividad1
 desc: ''
-updated: 1728939459619
+updated: 1729543575705
 created: 1728592829446
 ---
+> cancelar reserva desde bibliotecario
+> fecha determinada en reserva
+
+
 ## Funcional
 - Pantalla de Login
-  - Botón de olvide mi contraseña
-  - Botón de olvide mi correo
+  - Botón de olvide mi contraseña *
+  - Botón de olvide mi correo *
   - Botón de registro
   - Botón de enviar formulario
 - Pantalla modificar perfil
-  - Modificar/añadir número telefónico
-  - Modificar contraseña
+  - Modificar/añadir número telefónico *
+  - Modificar contraseña * 
 - Pantalla de registro
   - Pedir correo
   - Contraseña
@@ -26,7 +30,7 @@ created: 1728592829446
   - Revisar disponibilidad del libro
   - Portada del libro
 - Que permita realizar una solicitud 
-  - Solicitar fecha de salida y entrada
+  - Solicitar fecha de salida y entrada *
 
 ## No funcional
 - Verificación de correo.
