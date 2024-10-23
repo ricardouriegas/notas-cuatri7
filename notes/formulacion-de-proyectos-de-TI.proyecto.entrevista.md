@@ -2,10 +2,11 @@
 id: b8y4xbao6vfwhfs8t0l63ni
 title: entrevista
 desc: ''
-updated: 1729645499340
+updated: 1729707668513
 created: 1729645169561
 ---
 ## Entrevista sobre Corrupción en el Sector Público
+![alt text](image-14.png)
 
 **Entrevistador:** ¿Cuál es su rol en el gobierno estatal?
 

@@ -2,7 +2,7 @@
 id: ugw5xjya7isrjb9crcv572e
 title: Entrevista
 desc: ''
-updated: 1729629767728
+updated: 1729714250818
 created: 1729627576982
 ---
 ## Elicitacion de requisitos: Identifiacacion de necesidades
@@ -77,4 +77,76 @@ Dialogo simulado:
 - Analista: "les gustaria que el sistema permitiera una opcion manual para estos casos?"
 - Bibliotecario 1: "Si, definitivamente seria util"
 
-### 2. Cuestionarios
+## Redaccion de requisitos
+- Requisito 1: El sistema debe impedir la reserva de un livro que ya este prestado o reservado
+- Requisito 2: El sistema debe permitir registrar devoluciones mediante un escaneo, con opcion manual en caso de error en el codigo 
+- Requisito 3: El sistema debe enviar notificaciones automaticas a los usuarios cuando una reserva este lista para ser recogida
+- Requisito 4: El sistema debe limitar la cantidad de reservas simultaneas por usuairo a un maximo de 3 libros
+
+### Validacion de requisitos ocn los bibliotecarios
+La validacion de requiasitos es una fase crucial en la ingenieria de requisitos para asegurarse de que las necesidades identificadas se alinean correctamente con las expectativas y el contexto del usuario ( en este caso, los bibliotecarios). Esto minimiza malentendidos y errores antes de comenzar con el desarrollo del sistema.
+
+#### Pasos para la validacion de requisitos con los bibliotecarios
+1. Preparar el documento de requisitos
+
+    El analista crea un documento que incluye los requisitos funcionales y no funcionales extraidos de las entrevistas. Cada requisitos debe ser claro, detallado y comprensible para los bibliotecarios
+
+    - Requisitos funcionales:
+      - RF1; El sistema debe bloquear automaticamente la reserva de libros que ya esten preparados 
+      - RF2: El sistema debe permitir registrar devoluciones mediante escaneo y opcion manual en caso de error 
+      - RF3: Se enciara una notificacion automatica cuando un libro reservado este listo para ser recogido 
+    - Requisitos no funcionales:
+      - RNF1: La interfaz del sistema debe ser intuitiva y accesible desde dispositivos moviles y navegadores web
+      - RNF2: Las reservas deben realizarse en menos de 3 pasos.
+
+2. Planificar la sesion de validacion
+
+    El analista organiza una reunion con los bibliotecarios para discutir los requisitos. Esta sesion puede ser presencial o virtual
+
+    - Objetivos de la sesion:
+      - confirmar que los requisitos reflejan correctamente las necesidaes
+      - Identificar requisitos adicionales o realizar ajustes si es necesario
+      - Detectar incosistencias, ambiguedades o requisitos inalcanzables
+    - Materiales necesarios
+      - Documento de requisitos
+      - Protoptipos o bocetos de la interfaz, si estan disponibles
+      - Lista de preguntas para validar la comprension
+
+### Realizacion de la sesion de validacion
+- Dinamica de la reunion
+  - IntroduccionL El analista explica el objetivo de la sesion y como se organizara
+  - Revision de requisitos: El analista lee cada requisito y explica su proposito
+  - Analista: "Les parece adecuado que el sistema bloquee automaticamente la reserva de libros que ya estan prestados?"
+  - Bibliotecario 1: "Si, eso es justo lo que necesitamos"
+
+- Discusion de posibles ajustes:
+  - Bibliotecario 2: Seria util que el sisstema tambien nos mostrara una lista de libros proximos a ser devueltos"
+  - Analista: Perfecto. Incluire ese requisito en la lista final
+- Identificacion de riesgos:
+  - Bibliotecario 1: " A veces los usuarios no recogen los libros reservados, Poremos establecer un tiempo limite para la reserva?
+  - Analista: Esa es una buena sugerencia. Agregaremos esa funcionalidad.
+
+### Ajustar los requisitos identificados
+- Con base en los comentarios obtenidos durante la sesion, el analista hace los ajustes necesarios. Algunos cambios podrian incluir:
+  - Agregar requisitos: 
+    - El sistema debe permitir establecer un tiempo limite para recoger reservas
+  - Modificar requisitos
+    - Añadir una lista de libros proximos a ser devueltos para facilitar la gestion
+
+### Obtener la aprobacion formal
+- Una vez ajustados los requisitos, se elabora una version final del documento
+- El analista lo envia a los bibliotecarios para su revision y aprobacion final
+
+**Seguimiento posterior**
+
+- El analista se asegura de estar disponible para resolver dududas adicionales y programar futuras validacion es si surgen cambios en los requistos durante el desarrollo del proyecto
+
+# Actividades pendientes
+
+- [ ] pantalla de inicio
+- [ ] implementar ver transacciones en el modo admin
+- [ ] hacer la tabla de reporte en la pagina de devolver libro (cuando le des a devolver libro debe mostrar la tabla para que tu hagas el repo?rte; si esta roto entonces no se aumenta la cantidad disponible, sino pues si aumenta)
+- [ ] En la base de datos; 3 dias habiles para ir por el libro cuanod se reserva
+- [ ] mandar un correo cuando se hace la reserva mostrando el rango de tiempo que puedes por el libro
+- [ ] cuando le de reservar un boton de verificacion y verificar que no halla mas de 3 reservas pendientes hechas por el usuario
+- [ ] _que la pantalla del catalogo se divida en paginas_
