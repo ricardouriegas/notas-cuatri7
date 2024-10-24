@@ -1,11 +1,24 @@
 ---
 id: b8y4xbao6vfwhfs8t0l63ni
-title: entrevista
+title: Entrevista
 desc: ''
-updated: 1729796801182
+updated: 1729798835133
 created: 1729645169561
 ---
-## Entrevista sobre Corrupción en el Sector Público
+## Índice de Percepción de la Corrupción (IPC)	
+<a src="https://www.transparency.org/en/cpi/2023">Grafico del IPC de todos los paises en el mundo en 2023</a>
+
+
+El Instituto Nacional de Estadística y Geografía (Inegi) elabora diversos análisis y encuestas que permiten construir un panorama sobre la percepción de la corrupción en México.
+
+De acuerdo con su Encuesta Nacional de Calidad e Impacto Gubernamental, en 2015, la mitad de la población mayor de 18 años consideró que la corrupción es el segundo mayor problema que enfrentan sus estados, solo por debajo de la inseguridad y la delincuencia.
+
+El mismo documento revela que 88.8% de la población piensa que la corrupción es una práctica que ocurre de manera frecuente o muy frecuentemente entre los servidores públicos o empleados del gobierno, quienes son percibidos de abusar de sus funciones para obtener beneficios personales.
+
+<a src="https://www.asf.gob.mx/uploads/63_Serie_de_Rendicion_de_Cuentas/Rc5.pdf">Enlace del documento donde se menciona la medida y medidas que se pueden usar para medir la corrupcion</a>
+
+---
+
 <!-- ![alt text](image-14.png) -->
 
 **Entrevistador:** ¿Cuál es su rol en el gobierno estatal?
