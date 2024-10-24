@@ -1,3 +1,10 @@
+---
+id: fja7zr8pe9gcmtoj3ht19vb
+title: Hipotesis
+desc: ''
+updated: 1729777869020
+created: 1729777869020
+---
 ### **¿Qué es una Hipótesis?**
 Una hipótesis busca responder preguntas sobre las relaciones entre variables y proporciona una base para el diseño experimental. Aveces es confundida con una simple suposicion, sin embargo no es solo una suposición; debe ser **verificable** y **falsable**, lo que significa que a través de los datos y la observación, puede ser respaldada o refutada (Harvard Gazette, 2016).
 
@@ -99,3 +106,12 @@ Si al analizar los datos los resultados muestran una diferencia significativa en
 2. **Hipótesis Alternativa (H₁ o Hₐ)**:
    - **Ejemplo**: El nuevo método de enseñanza **mejora** significativamente las calificaciones de los estudiantes en comparación con el método tradicional.
    - **Desenlace**: Si los datos muestran una diferencia significativa a favor del nuevo método, se **rechaza** la hipótesis nula y se **acepta** la hipótesis alternativa, indicando que el nuevo método **es efectivo**.
+
+### **Otros Tipos de Hipótesis:**
+
+| Tipo de Hipótesis          | Descripción                                                                                      | Ejemplo                                                                                                                                                                    | Fuente                                           |
+|----------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Hipótesis Descriptiva**   | Describe una característica de una población sin comparaciones ni relaciones.                   | "El 60% de los estudiantes de Harvard utilizan bicicletas como medio de transporte principal."                                                                             | Harvard Extension School (2020)                  |
+| **Hipótesis Correlacional** | Establece que existe una relación entre dos variables, pero sin implicar causalidad.              | "Existe una correlación positiva entre el número de horas de estudio y el rendimiento académico en MIT."                                                                   | MIT OCW (2021)                                   |
+| **Hipótesis de Investigación** | Plantea una afirmación que el investigador busca comprobar mediante la investigación.            | "Seguir una dieta mediterránea reduce significativamente el nivel de colesterol en adultos mayores."                                                                       | Cambridge University Press (2020)                |
+| **Hipótesis Estadística**   | Se utiliza para pruebas estadísticas sobre los parámetros de una población.                     | "El programa de ejercicio reduce significativamente el peso corporal medio de los participantes."                                                                         | MIT Department of Mathematics (2021)             |

@@ -191,11 +191,11 @@ Proceso de comunicacion entre dos o mas partes para alcanzar un acuerdo
 - Usted quiere aplazar y la otra parte pueda crear un sentido de urgencia
 
 ### Manejo de conflictos
-Forma de atender y resolver las controversias que se suscritan cuando alguien no esta de acuerdo y  se opone a otra persona
+Forma de atender y resolver las controversias que se suscritan cuando alguien no esta de acuerdo y se opone a otra persona
 
 ## Perpsectivas contemporaneas del liderazgo
 ### Liderazgo de equipo
-Proceso para lograr la compresion y compromiso de los miembors de un equipo para lograr un objetivo
+Proceso para lograr la compresion y compromiso de los miembors de los miembros de un equipo que permita alcanzar los resultados optimos de desempeño.
 
 #### Funcion del lider en la formacion de equipos efectivos
 - Destacar el reconocimiento al grupo y las recompensas
@@ -210,4 +210,68 @@ Proceso para lograr la compresion y compromiso de los miembors de un equipo para
 - Ofrecer a los equipos un trabajo que represente un desafio y a la vez los motive
 
 ### Liderazgo estrategico
-Proceso que ofrece la direccion e inpiracion necsarias para crear e implementar una estrategia
+Proceso que ofrece la direccion e inpiracion necesarias para crear e instrumentar una vision, misioin y estratefias para lograr y respaldar los objetivos propuestos.
+
+#### Mecanica del liderazgo estrategico
+Interno, analisis de ambiente o externo
+
+- vision
+- mision 
+- formaulacion de la estrategia
+- implementacion de la estrategia competitividad estrategica
+
+### Liderazgo en crisis
+Acciones para enfrentar tiemo o estado de cosas inestable o crucial en que existe la amenaza de un cambio decisivo y en el que hay que tomar decisiones importantes
+
+### Liderazgo para el cambio organizacional
+Actividades reaalcion adas con la planeacion, diseno, implementacion y normalizacion de herrmientas, tecnicas y metodos para lograr un cambio en la organizacion
+
+### Liderazgo de apoyo
+Enfoque que confiere autoridad para la toma de decisiones y control de las acciones.
+
+### Liderazgo de servicio
+Enfoque que trasciende el interes personal para resolver las necesidades de los demas, ayudandoles a crecer profesional y emocionalmente.
+
+### Liderazgo transformacional
+Forma de actuar que transforma una vision en realidad y motiva  a las personas a trascender sus intereses personales por el bien del grupo.
+
+#### Atributos de los lideres transformacionales
+- Se conciben a si mismos como agentes de cambio
+- Son visionarios y confian en su  intuicion
+- Corren riesgos de manera responsble
+- son capaces de articular valores medulares que guian su comportamiento
+- Poseen habilidades confoscitivas excepcionales
+- Analizan las situaciones minuciosamente antes de acutar
+- Creen en la gente y se muestran sensibles a sus necesidades
+- Son flexibles y estan abiertos a aprender de la experiencia
+
+### Coaching
+Comunicarse con las personaas para retroalimentarlas a manera de entrenamiento
+
+#### mejorar el desempeno con elmodeo de coachign
+1. Describir el desempeño acutal
+2. Describir el desempeño deseado
+3. Formalizar un compromiso de cambio 
+4. Dar seguimiento
+
+### Liderazgo carismaticco
+Presencia basada en cualidades excepcionales que inspia y motiva a la gente para que alcance logros mas alla de los que realizaria en circunstancias normales.
+
+#### Carisma
+"Don abundante concedido por Dios a una criatura" ~ Max Weber
+
+#### Caracterisitcas de los lideres carismaticos
+- vision de futuro 
+- Habilidades cde comunicacion xcepcionales
+- Confianza en su mismo
+- Conviccion moral
+- Capacidad para inspirar confianza
+- Orientacion a la accion y el riesgo
+- Gran eneri
+- Base de podrer fundada en las relaciones
+- control personal
+- capaidad de delegar
+- cutoconfianza altamente desarrollada
+
+### Liderazgo basado en los valores
+Influencia que ejerce un lider en los demas para que actuen de acuerdo con los valores que el lider considera importantes
