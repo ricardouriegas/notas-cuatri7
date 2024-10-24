@@ -267,7 +267,7 @@ Presencia basada en cualidades excepcionales que inspia y motiva a la gente para
 - Conviccion moral
 - Capacidad para inspirar confianza
 - Orientacion a la accion y el riesgo
-- Gran eneri
+- Gran energia
 - Base de podrer fundada en las relaciones
 - control personal
 - capaidad de delegar
