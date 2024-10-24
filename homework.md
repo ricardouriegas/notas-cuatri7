@@ -1,7 +1,5 @@
 ### **¿Qué es una Hipótesis?**
-Una **hipótesis** es un concepto fundamental en la investigación científica. Es una **explicación o suposición propuesta** sobre un fenómeno que puede ser probada a través de la experimentación o la observación. Según **Harvard University**, una hipótesis no es solo una suposición; debe ser **verificable** y **falsable**, lo que significa que a través de los datos y la observación, puede ser respaldada o refutada (Harvard Gazette, 2016).
-
-En esencia, una hipótesis busca responder preguntas sobre las relaciones entre variables y proporciona una base para el diseño experimental.
+Una hipótesis busca responder preguntas sobre las relaciones entre variables y proporciona una base para el diseño experimental. Aveces es confundida con una simple suposicion, sin embargo no es solo una suposición; debe ser **verificable** y **falsable**, lo que significa que a través de los datos y la observación, puede ser respaldada o refutada (Harvard Gazette, 2016).
 
 ---
 
@@ -11,7 +9,7 @@ En esencia, una hipótesis busca responder preguntas sobre las relaciones entre 
 2. **Hipótesis Alternativa (H₁ o Hₐ)**
 
 ### **1. Hipótesis Nula (H₀):**
-La **hipótesis nula** es una afirmación que asume **no hay relación o efecto** entre las variables. Según el **Massachusetts Institute of Technology (MIT)**, la hipótesis nula representa la idea de que cualquier efecto observado en un experimento se debe al **azar** más que a las variables estudiadas. Los investigadores a menudo establecen la hipótesis nula para probar si puede ser rechazada a través del análisis estadístico (MIT OpenCourseWare, 2021).
+La **hipótesis nula** es una afirmación que asume **no hay relación o efecto** entre las variables. Es decir, la hipótesis nula representa la idea de que cualquier efecto observado en un experimento se debe al **azar** más que a las variables estudiadas. Los investigadores a menudo establecen la hipótesis nula para probar si puede ser rechazada a través del análisis estadístico (MIT OpenCourseWare, 2021).
 
 #### **Ejemplo del MIT**:
 En un estudio que explora si un nuevo método de enseñanza mejora las calificaciones de los estudiantes en comparación con un método tradicional, la hipótesis nula sería:
@@ -23,7 +21,7 @@ Aquí, la hipótesis nula asume que el método de enseñanza no tiene ningún ef
 En la investigación, el **objetivo es probar** la hipótesis nula analizando los datos. Si los datos muestran un efecto estadísticamente significativo, los investigadores pueden rechazar la hipótesis nula, lo que indica que el efecto no se debe al azar.
 
 ### **2. Hipótesis Alternativa (H₁ o Hₐ):**
-La **hipótesis alternativa** propone que hay **un efecto** o relación entre las variables estudiadas. **Cambridge University** destaca que la hipótesis alternativa representa el resultado esperado o la teoría que los investigadores quieren apoyar a través de sus experimentos (Cambridge University Press, 2020).
+La **hipótesis alternativa** propone que hay **un efecto** o relación entre las variables estudiadas. Es decir, que la hipótesis alternativa representa el resultado esperado o la teoría que los investigadores quieren apoyar a través de sus experimentos (Cambridge University Press, 2020).
 
 #### **Ejemplo de Cambridge**:
 Usando el mismo ejemplo de métodos de enseñanza:
