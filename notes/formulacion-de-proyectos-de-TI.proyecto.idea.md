@@ -6,6 +6,8 @@ updated: 1729626460351
 created: 1728065713204
 ---
 
+una puerta que con reconocimiento facial se abra sola
+
 ## 1. Tema
 **Tema:** Software colaborativo de evaluación anticorrupción entre empresas y el gobierno.
 
