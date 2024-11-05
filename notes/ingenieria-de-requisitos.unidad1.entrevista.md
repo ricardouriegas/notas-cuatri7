@@ -141,6 +141,28 @@ La validacion de requiasitos es una fase crucial en la ingenieria de requisitos 
 
 - El analista se asegura de estar disponible para resolver dududas adicionales y programar futuras validacion es si surgen cambios en los requistos durante el desarrollo del proyecto
 
+# Cuestionarios y encuestas
+- Los cuestionarios encuestas y son tecnicas fundamentales en la elicitacion de requisitos de sistema de software, ya que permiten recopilar informacion estructurada de un grupo amplio de usuario y partes interesadas
+- Estas Herramientas son utilies para identificar necesidades, preferencias y expectativas que se tienen sobre el sistema, especialmente en enotrnos donde es dificil  realizar entrevistas a todos los usuarios
+- Se utilizan preguntas cerradas (opciones multiples) o abiertas (respuestas libres).
+
+## Ventajas:
+- Permiten alcanzar a una gran cantidad de personas en poco tiempo
+- Facilitan el analisis cuantitativo  de datos
+## Desventajas
+- No permiten profundizar en temas complejos
+- La interpretacion de las preguntas puede variar entre los encuestados
+
+Ejemplo:
+- El equipo de desarrollo envia un cestionario a los usuarios de uan biblioteca preuntando or su experiencia con el sistema actual de reservas y que funcionalidades adicionales desean
+
+# Caracteristicas de cuestionarios y encuestas
+- Estructura predefinida: Los cuestionarios y encuestas se diseñan previeamente con preguntas especificas que permiten obtener respuestas directas y consistentesde cada participante
+- EscalabilidadÑ Se pueden distribuir a una gran cantidad de usuarios, lo que facilita el analissi de tendencias y patrones en los requisitos
+- Estandarizacion: Permiten estandarizar la informaion que se recopila, lo que facilita la interpretacion de datos y la comparacion de resultados
+- Flexivilidad de respuesta: Se pueden incluir preuntas aviertas para obtener opiniones detalladas o preguntas cerradas para respuesta cuantitativas
+
+
 # Actividades pendientes
 
 - [ ] pantalla de inicio
