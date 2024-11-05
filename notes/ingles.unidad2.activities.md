@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1730737443883
+updated: 1730823140906
 created: 1730223264146
 ---
 # News and views
@@ -35,3 +35,31 @@ The story is about a Swedish man named Peter Skyllberg who survived 60 days trap
 3. **Are you able to get answers to all your inquiries? What are your thoughts on why certain experts have doubts?**
 
 Yes, the article answers most inquiries regarding who discovered him, where he was trapped, and how he survived. Some experts have doubts because it’s unusual for a person to endure such severe conditions without food for an extended period, and the notion of human hibernation seems far-fetched to them.
+
+5. Listen to two people discussing the article. Complete the lines from their conversation
+  1. Does he was vurried by an avalanche while he was sking?
+  2. No, he hadnt been skiing
+  3. He was driving his car and he got stuck in snowdrifts
+  4. Ho come nobody found him?
+  5. He had brought a sleeping bag and he was lying in that
+  6. Why didnt anyone report him missing?
+  7. He said he had eaten nothingg but snow
+  8. I think theres more to this story than meets the eye
+
+## Excerise 6
+1. Do u think its possible to live so long with only snow to eat?
+   1. No, at least ur fat or superman
+
+![alt text](image-17.png)
+
+## practice 2
+![alt text](image-18.png)
+1. Joel was tired when he arrived home after getting up at dawn and driving for ten hours.
+
+2. When I went to get my car, it wasn’t there because I had parked it in a no-parking zone, and it was towed away.
+
+3. Last night Sally was celebrating because she had won $2,000 in a competition.
+
+4. When Jane and Loyd arrived home, they were broke because they had been shopping all day and spent all their money on clothes.
+
+5. Last week John moved into the house he had first seen while driving around on vacation.
