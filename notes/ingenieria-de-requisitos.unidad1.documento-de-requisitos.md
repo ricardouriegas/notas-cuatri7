@@ -2,10 +2,9 @@
 id: 45qwxe0mg7wmkrncopn7yuj
 title: Documento De Requisitos
 desc: ''
-updated: 1730838129119
+updated: 1730900486875
 created: 1729716081325
 ---
-# Sistema de Reservas de Biblioteca.
 ## 1. Introducción
 ### Propósito del documento:
 Este documento tiene como objetivo describir los requisitos funcionales y no funcionales del *Sistema de Reservas de Biblioteca*. Los requisitos aquí documentados se han elaborado mediante entrevistas y sesiones de validación con los bibliotecarios, con el propósito de asegurar que el sistema cubra sus necesidades operativas.

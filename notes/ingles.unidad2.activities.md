@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1730823140906
+updated: 1730909014979
 created: 1730223264146
 ---
 # News and views
@@ -63,3 +63,17 @@ Yes, the article answers most inquiries regarding who discovered him, where he w
 4. When Jane and Loyd arrived home, they were broke because they had been shopping all day and spent all their money on clothes.
 
 5. Last week John moved into the house he had first seen while driving around on vacation.
+
+## Act pag 21
+![alt text](image-19.png)
+
+1. Who wrote it?
+2. What genre is it?
+3. What is it about?
+4. Where and when is it set?
+5. Who are the main characters?
+6. Has it been made into a movie?
+7. How does it end?
+8. Did you enjoy it?
+9. What did the critics say about it?
+10. Has it won any awards?
