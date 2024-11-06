@@ -168,7 +168,7 @@ Ejemplo:
 - Pregunta abiertas: Permiten que los uaurios expresen ideas y sugerencias en sus propias palabras utiles para recopilar comentarios detallados o descuvir raspector no previstos (por ejemplo. Que mejoras les gustaria ver en el sistema?)
 - Preguntas de si/no: Adecuadas para verificar la aceptacion de ciertas caracteristicas o valida supuestos (ejemplo. Actualmente usa el sistema de reservas?)
 
-## Cuestionario para el sistema  de rservas de la biblioteca
+## Cuestionario para el sistema  de reservas de la biblioteca
 1. Utiliza actualmente el sistema de reserva de la bilioteca?
    1. Si o no
 2. Con que frecuecnia utiliz a el sitema de reservas
@@ -185,6 +185,15 @@ Ejemplo:
 - Ahorro de tiempo y recursos en comparacion con llas entrevistas
 - Cobertura amplia de usuarios, que permite una vision mas completa de las necesidades y exectativa
 - Analisis estadistico de respuestas para tomar decisiones vasadas en datos y tendencias
+
+## Limitaciones
+- Fatla de profundizacion. Las respuesta pueden ser breves y no simpre reglejen todos lo detalles que se podrian obtener en entrevistas
+- Posible sesgo de respuesta. Algunos usuarios pueden no responder con sinceridad o pueden tener sesgos hacia ciertas opciones
+
+## Mejores Practicas
+- Definir claramente los obtjetivos del cuaestionario para enforcarse en los requisitos mas relevantes
+- Disenoa preguntas claras y concisas pra evitar confusion
+- Probar el cuestionario con un grupo pequeno de usuarios para detectas posibles problemas antes de distribuirlo ampliamenteIcluir una combinacion de preguntas acvirtas y cerradas para obtener tanto datos cuatnitativos como cualitativos
 
 # Actividades pendientes
 
