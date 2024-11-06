@@ -162,6 +162,29 @@ Ejemplo:
 - Estandarizacion: Permiten estandarizar la informaion que se recopila, lo que facilita la interpretacion de datos y la comparacion de resultados
 - Flexivilidad de respuesta: Se pueden incluir preuntas aviertas para obtener opiniones detalladas o preguntas cerradas para respuesta cuantitativas
 
+## Tipos de preguntas comunes
+- Preguntas de seleccion multiple: Utiles para obtener respeuestas rapidas y faciles de analizar, ideales para identificar opciones preferidas (ejmplo, Que funcionalidad considera mas importantes en el sistema de reservas?)
+- Escala de likert: Permite medir el grado de acuerdo o satisaccion de los usuarios sobre aspectos especificos (ej,. califique del 1 a 5 su  satisfaccion con el sistema cutal d reserva)
+- Pregunta abiertas: Permiten que los uaurios expresen ideas y sugerencias en sus propias palabras utiles para recopilar comentarios detallados o descuvir raspector no previstos (por ejemplo. Que mejoras les gustaria ver en el sistema?)
+- Preguntas de si/no: Adecuadas para verificar la aceptacion de ciertas caracteristicas o valida supuestos (ejemplo. Actualmente usa el sistema de reservas?)
+
+## Cuestionario para el sistema  de rservas de la biblioteca
+1. Utiliza actualmente el sistema de reserva de la bilioteca?
+   1. Si o no
+2. Con que frecuecnia utiliz a el sitema de reservas
+   1. Diario
+   2. Semanal
+   3. Mensual
+   4. Rara vez
+3. Cuan satisfecha esta con el tiempo de respuesta del sistema al realizar una reserva? (1 = muy satisfecho, 5 - muy satisfecho)
+4. Le gustaria recivir notificaciones automaticas de sus reservas por correo electronico ?
+   1. Si o no
+5. Que caracteristicas adicionales le gustaria que tuviera el sistema de reservas?
+
+## Beneficios de custionarios y encuestas en elicitacon
+- Ahorro de tiempo y recursos en comparacion con llas entrevistas
+- Cobertura amplia de usuarios, que permite una vision mas completa de las necesidades y exectativa
+- Analisis estadistico de respuestas para tomar decisiones vasadas en datos y tendencias
 
 # Actividades pendientes
 
