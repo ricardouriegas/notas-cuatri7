@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1730909014979
+updated: 1730995627303
 created: 1730223264146
 ---
 # News and views
@@ -77,3 +77,12 @@ Yes, the article answers most inquiries regarding who discovered him, where he w
 8. Did you enjoy it?
 9. What did the critics say about it?
 10. Has it won any awards?
+
+## Writing
+The Little Prince is this cool book written by Antoine something (i do not remember his last name), a French author, back in 1943. It’s about this little prince who travels to different planets and meets all sorts of strange characters. Each person he meets teaches him something, and the whole story is full of deep stuff about life, love, and growing up.
+
+The story starts with a pilot who crashes his plane in the desert and meets the little prince. The prince asks him to draw a sheep, and that’s how they start chatting. The prince tells the pilot about his journey and the people he’s met, like a king, a vain dude, a drunk guy, a lamplighter, and a geographer. Each of them kind of represents different parts of society, and the book pokes fun at how adults often care too much about stuff like power and appearances.
+
+One of the best parts of The Little Prince is when the prince says, "What is essential is invisible to the eye." Basically, it’s a reminder that the most important things in life just like love, friendship, and real connections are not things you can see or touch. The prince learns this with his rose, realizing she is special, even though she looks like any other rose.
+
+Even though the book seems like it’s for kids, it’s actually got a lot of deep stuff for anyone. It’s all about remembering what really matters in life—love, real connections, and seeing the world through the eyes of a child.
