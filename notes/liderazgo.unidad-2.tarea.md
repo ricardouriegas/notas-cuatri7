@@ -2,7 +2,7 @@
 id: 6jygn80114pd2ubfopebsq1
 title: Tarea
 desc: ''
-updated: 1731001121906
+updated: 1731004826940
 created: 1731000949235
 ---
 ## Teorías de la Motivación
@@ -24,3 +24,5 @@ La teoría del establecimiento de metas de Locke y Latham es una de las teorías
     La retroalimentación y el seguimiento son esenciales para garantizar que los empleados estén en el camino correcto para alcanzar sus metas.
 
 #### Ejercicio 2
+1. **¿Qué es la motivación?**
+    La motivación es el impulso interno que nos lleva a actuar de una determinada manera o a perseguir un objetivo.
