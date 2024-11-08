@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1730995627303
+updated: 1731083277644
 created: 1730223264146
 ---
 # News and views
@@ -86,3 +86,31 @@ The story starts with a pilot who crashes his plane in the desert and meets the 
 One of the best parts of The Little Prince is when the prince says, "What is essential is invisible to the eye." Basically, it’s a reminder that the most important things in life just like love, friendship, and real connections are not things you can see or touch. The prince learns this with his rose, realizing she is special, even though she looks like any other rose.
 
 Even though the book seems like it’s for kids, it’s actually got a lot of deep stuff for anyone. It’s all about remembering what really matters in life—love, real connections, and seeing the world through the eyes of a child.
+
+## Act listening
+1. Why is lucy surprised about rachels change of opinion?  
+   1. Bc rachel was against use a screen to read
+
+2. What benefits to the Kindle do they talk about? And what limitations?
+   1. Reading in bed, but not when the battery is dead
+   2. Can not read at the same time when theres sun
+   3. Kindle is cheaper
+
+3. Why isn't Lucy as eager as Rachel to switch to using a Kindle?
+   1. Bc rachels said that she liked to flip pages, and not to use a screen
+   2. Rachel was the first person that introduce Lucy to physical books
+
+## Other listening
+1. What development in movie-making has Eddie found out about?
+   1. That you can download movies from the internet
+2. What are the pros and cons of going to the movie theater? And of downloading/streaming video?
+---
+   1. Pros: Big screen, all people feels the same thing, color, sound.
+   2. Cons: Expensive, noisy, and you can not pause.
+---
+   1. Pros: You can pause, cheaper, and you can watch it in your house.
+   2. Cons: Small screen, not the same experience, and you can not share with other people.
+1. Why doesn't Greg like the same type of movies as his girlfriend?
+   1. Bc of the subtitles and being black and white foreign films
+2. How does Eddie offer to help Greg?
+   1. Giving them some DVDs
