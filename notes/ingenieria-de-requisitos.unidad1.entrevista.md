@@ -2,7 +2,7 @@
 id: ugw5xjya7isrjb9crcv572e
 title: Entrevista
 desc: ''
-updated: 1729714250818
+updated: 1731011925410
 created: 1729627576982
 ---
 ## Elicitacion de requisitos: Identifiacacion de necesidades
@@ -204,3 +204,45 @@ Ejemplo:
 - [ ] mandar un correo cuando se hace la reserva mostrando el rango de tiempo que puedes por el libro
 - [ ] cuando le de reservar un boton de verificacion y verificar que no halla mas de 3 reservas pendientes hechas por el usuario
 - [ ] _que la pantalla del catalogo se divida en paginas_
+
+## tecnicas de elicitacion
+### 3. Prototipos
+- Los prototipos son represerntaciones preeliminares de un sistema de algunas de sus funcionalidades
+- Es una tecnica de elicitacion de requisitos muy util, ya que permiten visualizar como podria funcionar el sistema y brindar una experiencia interactiva a los usuarios y partes interesadas
+- Al usar prototipos, los usuarios pueden expresar sus necesidades de forma mas clara, lo que facilita la identificacion y validacion de requisitos.
+
+#### Tipos de prototipos 
+- Prototipos de baja fidelidad: Representaciones sencillas y rapidas de crear, como bocetos en papel o wireframes. Permiten a los usaurios entender el diseno  basico y la navegacion sin profundizar e los detalles 
+- Prototipos de alta fidelidad: Modelos mas detallados que imitan la apariencia y funcionalidad del sistema final. Se utilizan para obtener retroalimentacion especifica sobre el diseno, flujo del trabajo y funcionalidad.
+- Prototipos descartables: Se crean para obtener retroalimentacion rapida y se descartan despues de su revision. Son utilis para exporar ideas sin comprometer recursos en desarrollos complejos.
+- Prototipos evolutivos: Prototipos que se mejoran y refinan a medida que el sistema avanza. Estos suelen evolucionar hasta convertirse en parte del producto final.
+
+## Beneficios de los prototipos en la elicitacion de requisitos
+- Clatificacion de requisitos: Permiten a los usuarios visualizar y experimentar el sistea, lo que ayuda a identificar necesidades que tal vez no habrian expreseado en entrevistas
+- Mejora la comunicaion: Proveen una base comun para que desarrolladores y usuarios discutan sobre el sistema, lo que facilita una comprension compartida de los requisitos
+- Identificacion Temprana de problemas: Al Probar un modelo funcional del sistema, se pueden detectar posibles problemas de diseno o de flujo de trabajo antes de la fase de desarrollo:
+- Reduccion de errore: Ayudan a asegurar que los requisitos esten alineados con las expectativas de los usuarios, Lo que dismunuye la probabilidad de cambios costosos en etapas avanzadas
+
+## Ejmplo de prototipo en el contexto de un sistema de reservas de bibliotecas
+El prototipo de baja fidelidad podria consistir en :
+- Pantallas de login y registro: Muestran los campos de usaurio u contrasena, junto con botones para iniciar sesion o registrarse
+- Pantalla de busquedas de libros: Con un campo de texto para infresar el titulo o el autor y un boton de busqueda
+- Pantalla de resultados de la busqueda: Lista de libros con detalles basicos, boton para reservar y filtros de busqueda
+- Patnalla de confirmacion de reserva: Muestra los detalles del libro y permite seleccionar la fecha de recogida
+
+### Proceso de creacion de prototipos 
+- Definir el alcance y objetivos: decidir que funcionalidades oflujos se incluirar en el prototipo, en funcion de los rquiesitos que se desan validar
+- Eligir el nivel de fidelidad: Determinar si se necesita un prototipo de baja o alta fidelidad en funcion de la fase del proyecto y el tipo de retroalimentacion que se busca
+- Desarrollar el prototipo inicial: crear las patallas o interacicon es segun el dieseno definido
+- Recopilar retroalimentacion: Preserntar el prototipo a los usuario para observar su interaccion y recopilar y comentarios
+- Refinar el prototipo: Hacer ajustes en funcion de la retrolimentacion y repetir el proceso si es necesario.
+
+## Herramientas para crear prototipos
+- Baja fidelidad: Papel y lapiz herramentas de wireframing pcomo
+- alta fidelidad: Adobe XD, Sketch, Figma, InVision, Axure RP
+
+## Mejores practicas para el uso de prototipos
+- Involucrar a los uaurios desde el inicio: Permite obtener retroalimentacion temprana y garantiza que los requisitos del sistema estan alineados con las expectativas
+- Mantener el prototipo simple al  principio: Evita gastar y recursos en detalles innecesarios hasta que los requisitos principales estan bien definidos
+- Iteracion y retroalimentacion continua: Los prototipos deben ebolucionar en funcion de los comentarios de los usuaios para reglejar sus necesidades y expectativas cambiantes
+- Documentar cambios y decisiones: Es importante registrar la retrolaimentacion y las modificaciones realizadas para entender la evolucion de los requisitos.

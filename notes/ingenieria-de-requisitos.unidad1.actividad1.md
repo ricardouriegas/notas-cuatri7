@@ -2,7 +2,7 @@
 id: udse3f1jf6apgthkhau89wr
 title: Actividad1
 desc: ''
-updated: 1730937475382
+updated: 1731023796858
 created: 1728592829446
 ---
 > cancelar reserva desde bibliotecario
@@ -274,3 +274,57 @@ created: 1728592829446
 **Postcondicion**: El usuario completa la reserva de forma sencilla y rapida
 
 ### Caso de uso 5: Compatibilidad - Navegadores y dispositivos
+- **Actor**: Usuario
+- **Precondicion**: El sistema debe ser compatible con los navegadores mas utilizados y dispositivos moviles
+- **Descripcion**: Garantizar que el sistema funcione correctamente en Chrome, Firefox, Safari y dispositivos moviles
+
+#### Flujo principal
+1. El usuario accede al sistema desde un navegador web
+2. El sistema se adapta a la resolucion de la pantalla y al navegador utilizado
+3. El usuario puede navegar por el catalogo de libros y realizar reservas sin problemas
+
+#### Excepciones
+- 2a. Si el sistema no se visualiza correctamente en un navegador o dispositivo, se considera un problema de compatibilidad
+
+**Postcondicion**: El usuario accede al sistema desde cualquier navegador o dispositivo sin problemas
+
+### Caso de uso 6: Escalabilidad - Manejo de usuarios simultaneos
+- **Actor**: Usuario, sistema
+- **Precondicion**: El sistema debe tener capacidad de ampliacion
+- **Descripcion**: Garantizar que el sistema pueda soportar hasta 10,000 usuarios simultaneos sin afectar su rendimiento
+
+#### Flujo principal
+1. Los usuarios acceden al sistema y realizan consultas de busqueda
+2. El sistema distribuye la carga de usuarios en servidores alternos
+3. Los usuarios reciben los resultados de sus consultas en tiempo real
+
+#### Excepciones
+- 2a. Si el numero de usuarios simultaneos supera los 10,000, el sistema activa servidores de respaldo para distribuir la carga
+
+**Postcondicion**: El sistema se mantiene operativo sin afectar el rendimiento con un alto numero de usuarios
+
+### Caso de uso 7: Tiempos de respuesta - Consultas rapidas
+- **Actor**: Usuario, sistema
+- **Precondicion**: El sistema debe tener una infraestructura optimizada
+- **Descripcion**: Garantizar que las consultas de busqueda devuelvan resultados en menos de 2 segundos
+
+#### Flujo principal
+1. Los usuarios acceden al sistema y realizan consultas de busqueda
+2. El sistema procesa las consultas y devuelve los resultados en menos de 2 segundos
+
+#### Excepciones
+- 2a. Si las consultas tardan mas de 2 segundos en devolver resultados, se considera un problema de rendimiento
+
+**Postcondicion**: Los usuarios reciben los resultados de sus consultas en tiempo real
+
+### Caso de uso 8: Cumplimiento legal - Proteccion de datos
+- **Actor**: Usuario, sistema
+- **Precondicion**: El sistema debe cumplir con las regulaciones locales de proteccion de datos
+- **Descripcion**: Garantizar que el sistema cumple con normativas de proteccion de datos personales, permitiendo a los usuarios solicitar la eliminacion de su informacion en cualquier momento
+
+#### Flujo principal
+1. El sistema almacena los datos de los usuarios de forma segura
+2. Los usuarios pueden solicitar la eliminacion de su informacion personal en cualquier momento
+3. El sistema elimina los datos de los usuarios de forma permanente
+
+**Postcondicion**: Los usuarios pueden solicitar la eliminacion de su informacion personal en cualquier momento
