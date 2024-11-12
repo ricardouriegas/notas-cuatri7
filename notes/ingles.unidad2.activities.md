@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1731083277644
+updated: 1731432905680
 created: 1730223264146
 ---
 # News and views
@@ -114,3 +114,36 @@ Even though the book seems like it’s for kids, it’s actually got a lot of de
    1. Bc of the subtitles and being black and white foreign films
 2. How does Eddie offer to help Greg?
    1. Giving them some DVDs
+
+# act
+Here is the solution in English:
+
+1. Complete the missing word in each question:
+   What kind of music do you like? "Jazz."
+   How often do you wash your hair? "Every other day."
+   Who do you look like? "My mother."
+   What were you talking to the teacher about? "Oh, this and that."
+   Do you know what time it is? "A little after three."
+   
+2. Make the sentences negative (there may be more than one possibility):
+   I don’t agree with you.
+   I don’t think you’re right.
+   I didn’t tell her to go home.
+   I didn’t know everybody at the party.
+   I haven’t done my homework yet.
+   My sister doesn’t like jazz either.
+
+# act 
+think of some lies that these people might tell
+1. a teenage girl to her parent
+   1. i didnt kill him
+2. a car salesperson
+   1. this is the best car everknown
+3. a student to the teacher
+   1. it was the alien that enter into my house and kill my fathers
+4. a politician
+   1. ill make it for all of u
+5. a husband to his wife 
+   1. i love u
+
+
