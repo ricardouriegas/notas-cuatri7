@@ -27,15 +27,15 @@ created: 1731443185235
 - Actores: representan a los uaurio y otros sistemas que intractuan con el sistema que estamos modelando. Pueden ser:
   - Primarios: Quieres inician una accion en el sistema (ejemplo , el usuario)
   - Secundarios: Sistemas o personas que apoyan la ejecucion del caso de uso pero no iniciar la accion (ejemplo un sistema de autenticacion)
-- Casos de uso: son las funcionalidades o acciones que sistema permite realizar a los actores, como registrar usuario, iniciar sesion o buscar libros. Se representan con un ovalo en el diagrama
+- Casos de uso: son las funcionalidades o acciones que sistema permite realizar a los actores, como registrar usuario, iniciar sesión o buscar libros. Se representan con un ovalo en el diagrama
 - Relaciones:
-  - Asociacion: Represnta la initeraccion directa entre un actor y un caso de uso. Se indica con una linea simple que conecta al actor y al caso de uso
+  - Asociación: Representa la interacción directa entre un actor y un caso de uso. Se indica con una linea simple que conecta al actor y al caso de uso
   - Include: Representa la inclusion obligatoria de un caso de uso en otro. Se usa cuando un caso de uso necesita la funcionalidad de otro para completarse. Ejemplo el caso de uso de buscar libro inclye mostrar detalles del libro
-  - Extend: Represetna una realicon opcional o condicional entre casos de uso. Se usa cuando un caso de uso amplia el comportamiento de otro en situaciones especificar. Ejemplo solicitar renovacion podra extender a reservar libro si  el usuario cumple ciartos criterios
+  - Extend: Representa una relacion opcional o condicional entre casos de uso. Se usa cuando un caso de uso amplia el comportamiento de otro en situaciones especificar. Ejemplo solicitar renovacion podra extender a reservar libro si  el usuario cumple ciartos criterios
   - Generalizacion: Indica que un actor o caso de uso puede tener subtipos. Ejemplo, un actor usuario podria tener subtipos como usuario regular y administrador.
 - Sistema: Se representa mediante un rectagulo que delimita el alcance del sistema y contine los casos de uso. Los actores se colocan fuera del sistema.
 
 Ventajas del diagrama de casos de uso:
-- facilita la comunicacion entre usuario, clientes y  desarrolladores
+- facilita la comunicación entre usuario, clientes y  desarrolladores
 - permite identificar las funcionalidades clave desde el inicio del proyecto
 - Proporciona una vision de alto nivel  de las interaccion el sistema

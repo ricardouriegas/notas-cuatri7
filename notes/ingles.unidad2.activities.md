@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1731432905680
+updated: 1731515321423
 created: 1730223264146
 ---
 # News and views
@@ -133,7 +133,7 @@ Here is the solution in English:
    I haven’t done my homework yet.
    My sister doesn’t like jazz either.
 
-# act 
+## act 
 think of some lies that these people might tell
 1. a teenage girl to her parent
    1. i didnt kill him
@@ -146,4 +146,36 @@ think of some lies that these people might tell
 5. a husband to his wife 
    1. i love u
 
+## 3. Listen to what the people are really thinking. What is the truth? Why did they lie?
+1. She doesnt love him. She doesnt want to hurt him
+2. he's afraid idk
+3. she's just jealous i think
+4. she dont want his father to know about a party
+5. he just want to play golf
+6. she just doesnt care about 
+
+### 4. Which question was each person asked 
+![alt text](image-20.png)
+
+### 2. Read and listen to two short convesations. Which 
+1. A - Surprise
+   B - Information
+2. A - Information 
+   B - Surprise
+
+### 3. Work in pairs. Asl and answer about these things using negative questions
+- Im surprised
+  - _like/ice cream_
+    - Dont u like ice cream?
+  - _have/a smartphone_
+    - Dont u have a smartphone
+  - _can/swim_
+    - Cant u swim?
+- im just cheking
+  - _is/birthday today_
+    - Isn't ur birthday today?
+  - _work/New York for a while_
+    - Haven’t u worked in New York for a while?
+  - _live/on Baker St._
+    - Don’t u live on Baker St.?
 
