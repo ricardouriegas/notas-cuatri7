@@ -1,39 +1,57 @@
-@startuml nose
-' view in vertical direction
+@startuml Sistema-Bibliotecario-Funcionales
 left to right direction
 
-:Administrador: as Admin
-:Usuario: as User
+actor Usuario
+actor Bibliotecario
+actor "Sistema de Notificación"
 
-rectangle "Sistema Inventario de Mi Cuarto" {
-    (Registrar Item) as CU1
-    (Actualizar Item) as CU2
-    (Eliminar Item) as CU3
-    (Consultar Inventario) as CU4
-    (Buscar Item) as CU5
-    (Generar Reporte) as CU6
-    (Ver Historial de Cambios) as CU7
-    (Gestionar Categorías) as CU8
-    (Enviar Notificación) as CU9
-    (Gestionar Usuarios) as CU10
-    (Gestionar Roles) as CU11
-    (Gestionar Permisos) as CU12
+rectangle "Sistema General de Biblioteca" {
+    usecase "Registrar Usuario" as CU1
+    usecase "Login" as CU2
+    usecase "Verificar Credenciales" as CU3
+    usecase "Gestionar Usuario" as CU4
+    usecase "Buscar Libro" as CU5
+    usecase "Reservar Libro" as CU6
+    usecase "Notificar Usuario" as CU7
+    usecase "Enviar Notificación" as CU8
+    usecase "Consultar Historial" as CU9
+    usecase "Administrar Inventario" as CU10
+    usecase "Añadir Libro" as CU11
+    usecase "Borrar Libro" as CU12
+    usecase "Modificar Libro" as CU13
+    usecase "Gestionar Devolución" as CU14
+    usecase "Enviar Autenticación" as CU15
 }
 
-Admin --> CU1
-Admin --> CU2
-Admin --> CU3
-Admin --> CU6
-Admin --> CU7
-Admin --> CU8
-Admin --> CU9
-Admin --> CU10
-Admin --> CU11
-Admin --> CU12
+Usuario --> CU1
+Usuario --> CU2
+Usuario --> CU4
+Usuario --> CU5
+Usuario --> CU6
+Usuario --> CU9
 
-User --> CU4
-User --> CU5
-User --> CU6
+CU2 -.> CU3 : include
+CU6 -.> CU7 : extend
+CU7 -.> CU8 : include
 
+Bibliotecario --> CU1
+Bibliotecario --> CU2
+Bibliotecario --> CU4
+Bibliotecario --> CU5
+Bibliotecario --> CU6
+Bibliotecario --> CU9
+Bibliotecario --> CU10
+
+CU10 -.> CU11 : include
+CU10 -.> CU12 : include
+CU10 -.> CU13 : include
+CU1 -.> CU2 : extend
+
+Bibliotecario --> CU14
+
+"Sistema de Notificación" -- CU8
+"Sistema de Notificación" -- CU15
+
+CU1 -.> CU15 : include
 
 @enduml

@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1731515321423
+updated: 1731600139609
 created: 1730223264146
 ---
 # News and views
@@ -179,3 +179,16 @@ think of some lies that these people might tell
   - _live/on Baker St._
     - Don’t u live on Baker St.?
 
+### Act 4. Make a negative sentence about these people. Use you dictonary
+- vegetarian
+  - vegetarians dont eat meat
+- atheists
+  - atheist dont belive in God
+- insomniacs
+  - insomniacs cant sleep at night 
+- dyslexics
+  - dyslexics r not just stupid u know
+- pacifists
+  - pacifists dont support war
+- naturist
+  - naturist dont like to use clothes

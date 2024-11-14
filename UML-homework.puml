@@ -1,0 +1,40 @@
+
+@startuml nose
+' view in vertical direction
+left to right direction
+
+:Administrador: as Admin
+:Usuario: as User
+
+rectangle "Sistema Inventario de Mi Cuarto" {
+    (Registrar Item) as CU1
+    (Actualizar Item) as CU2
+    (Eliminar Item) as CU3
+    (Consultar Inventario) as CU4
+    (Buscar Item) as CU5
+    (Generar Reporte) as CU6
+    (Ver Historial de Cambios) as CU7
+    (Gestionar Categorías) as CU8
+    (Enviar Notificación) as CU9
+    (Gestionar Usuarios) as CU10
+    (Gestionar Roles) as CU11
+    (Gestionar Permisos) as CU12
+}
+
+Admin --> CU1
+Admin --> CU2
+Admin --> CU3
+Admin --> CU6
+Admin --> CU7
+Admin --> CU8
+Admin --> CU9
+Admin --> CU10
+Admin --> CU11
+Admin --> CU12
+
+User --> CU4
+User --> CU5
+User --> CU6
+
+
+@enduml
