@@ -4,6 +4,7 @@ left to right direction
 actor Usuario
 actor Bibliotecario
 actor "Sistema de Notificación"
+actor "Base de Datos"
 
 rectangle "Sistema General de Biblioteca" {
     usecase "Registrar Usuario" as CU1
@@ -21,6 +22,16 @@ rectangle "Sistema General de Biblioteca" {
     usecase "Modificar Libro" as CU13
     usecase "Gestionar Devolución" as CU14
     usecase "Enviar Autenticación" as CU15
+
+    usecase "Alta devolucion" as altaDev
+    usecase "Baja devolucion" as bajaDev
+    ' usecase "Modificar devolucion" as alta
+
+    usecase "Baja Usuario" as bajaUser
+    usecase "Alta Usuario" as altaUser
+    usecase "Actualizar Usuario" as actualizarUser
+    usecase "Consulta Usuario" as consultaUser
+
 }
 
 Usuario --> CU1
@@ -31,7 +42,7 @@ Usuario --> CU6
 Usuario --> CU9
 
 CU2 -.> CU3 : include
-CU6 -.> CU7 : extend
+CU6 <-. CU7 : extend
 CU7 -.> CU8 : include
 
 Bibliotecario --> CU1
@@ -45,7 +56,7 @@ Bibliotecario --> CU10
 CU10 -.> CU11 : include
 CU10 -.> CU12 : include
 CU10 -.> CU13 : include
-CU1 -.> CU2 : extend
+CU1 <-. CU2 : extend
 
 Bibliotecario --> CU14
 
@@ -53,5 +64,18 @@ Bibliotecario --> CU14
 "Sistema de Notificación" -- CU15
 
 CU1 -.> CU15 : include
+CU1 .-> CU4 : include
+
+"Base de Datos" -- CU3
+
+' Gestionar devoluciones
+CU14 .-> altaDev : include
+CU14 --> bajaDev : include
+
+' gestionar usuario
+CU4 .-> bajaUser : include
+CU4 .-> altaUser : include
+CU4 .-> actualizarUser : include
+CU4 .-> consultaUser : include
 
 @enduml

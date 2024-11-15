@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1731600139609
+updated: 1731687061646
 created: 1730223264146
 ---
 # News and views
@@ -192,3 +192,23 @@ think of some lies that these people might tell
   - pacifists dont support war
 - naturist
   - naturist dont like to use clothes
+
+## Act 7. We can respond to a statement with a short question to ask for more information
+Write short questions with a preposition to respond to these statements 
+1. She gave away all her money
+   1. Who 
+   2. ask u
+2. Can i have a word with you, please?
+   1. what about?
+3. i danced all night
+   1. who With?
+4. Do you think you could give me a ride?
+   1. Where to?
+5. I got a nice present today
+   1. who from?
+6. I bought a birthday card today
+   1. Who from?
+7. Shh! Im thinking!
+   1. what about?
+8. I need $5000 desperately
+   1. good for u, i mean, what for?
