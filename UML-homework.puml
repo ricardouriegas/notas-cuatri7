@@ -7,31 +7,71 @@ left to right direction
 :Usuario: as User
 
 rectangle "Sistema Inventario de Mi Cuarto" {
-    (Registrar Item) as CU1
-    (Actualizar Item) as CU2
-    (Eliminar Item) as CU3
+    (Inicio de Sesión) as CU0
+    (Registrar Usuario) as CU0.1
+    (Gestionar Item) as CU1
     (Consultar Inventario) as CU4
     (Buscar Item) as CU5
     (Generar Reporte) as CU6
     (Ver Historial de Cambios) as CU7
     (Gestionar Categorías) as CU8
-    (Enviar Notificación) as CU9
     (Gestionar Usuarios) as CU10
     (Gestionar Roles) as CU11
-    (Gestionar Permisos) as CU12
+    (Asignar Permisos) as CU12
+
+    ' item
+    (Alta Item) as CU1.1
+    (Baja Item) as CU1.2
+    (Modificar Item) as CU1.3
+
+    ' categoría
+    (Alta Categoría) as CU8.1
+    (Baja Categoría) as CU8.2
+    (Modificar Categoría) as CU8.3
+
+    ' usuarios
+    (Alta Usuario) as CU10.1
+    (Baja Usuario) as CU10.2
+    (Modificar Usuario) as CU10.3
+
+    ' roles
+    (Alta Rol) as CU11.1
+    (Baja Rol) as CU11.2
+    (Modificar Rol) as CU11.3
+
+
+    ' todos los gestionar deben tener include alta, baja, modificación y consulta
+    CU1 .-> CU1.1 : include
+    CU1 .-> CU1.2 : include
+    CU1 .-> CU1.3 : include
+
+    CU8 .-> CU8.1 : include
+    CU8 .-> CU8.2 : include
+    CU8 .-> CU8.3 : include
+
+    CU10 .-> CU10.1 : include
+    CU10 .-> CU10.2 : include
+    CU10 .-> CU10.3 : include
+
+    CU11 .-> CU11.1 : include
+    CU11 .-> CU11.2 : include
+    CU11 .-> CU11.3 : include
 }
 
+CU0 <.- CU0.1 : extend
+
+Admin --> CU0
 Admin --> CU1
-Admin --> CU2
-Admin --> CU3
+Admin --> CU4
+Admin --> CU5
 Admin --> CU6
 Admin --> CU7
 Admin --> CU8
-Admin --> CU9
 Admin --> CU10
 Admin --> CU11
 Admin --> CU12
 
+User --> CU0
 User --> CU4
 User --> CU5
 User --> CU6
