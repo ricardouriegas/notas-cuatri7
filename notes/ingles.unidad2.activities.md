@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1731687061646
+updated: 1732037209646
 created: 1730223264146
 ---
 # News and views
@@ -212,3 +212,30 @@ Write short questions with a preposition to respond to these statements
    1. what about?
 8. I need $5000 desperately
    1. good for u, i mean, what for?
+
+## Listen to four people calling in to a radio program called confessions. Match the pictures with the confessions and correct the statements
+![alt text](image-21.png)
+- b, 1. Roberts actions didnt affected his classmates badly for the rest of their lives
+- c, 2. Kevins daugther liked baseball. She supported the Yanke
+- a, 3. Jane burned her mouth tasting the diners in the restaraunt when she served the soup
+- d, 4. Maggie didnt tell the bus driver about the missing man when they got to Paris
+
+## Listen again and answer the questions
+1. Robert says, i had never known them to be so silent or attent 
+   1. Who where they? Why were they so attentive?
+      1. Students, and they were atteting listening to the aswers of the exam
+   2. Why does robert feel guilty?
+      1. Bc he stole the exam
+2. Kebin says, I realized the full weight od the statement i had just made.
+   1. What was the statement? Why does kevin feel guilty?
+      1. Bc he said that santa didnt like yankees kids
+3. Jane says, There was no other option 
+   1. Why was this? What had she done?
+      1. bc she steal some soup 
+   2. What did she do next?
+      1. Burn his mouth
+4. Maggie says... but I said nothing
+   1. What about? Why did she say nothing?
+      1. bc there was a smelling guy
+   2. Why does she feel guilty?
+      1. bc she act rude 
