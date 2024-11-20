@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1732037209646
+updated: 1732120082722
 created: 1730223264146
 ---
 # News and views
@@ -37,7 +37,7 @@ The story is about a Swedish man named Peter Skyllberg who survived 60 days trap
 Yes, the article answers most inquiries regarding who discovered him, where he was trapped, and how he survived. Some experts have doubts because it’s unusual for a person to endure such severe conditions without food for an extended period, and the notion of human hibernation seems far-fetched to them.
 
 5. Listen to two people discussing the article. Complete the lines from their conversation
-  1. Does he was vurried by an avalanche while he was sking?
+  1. Does he was buried by an avalanche while he was sking?
   2. No, he hadnt been skiing
   3. He was driving his car and he got stuck in snowdrifts
   4. Ho come nobody found him?
@@ -216,7 +216,7 @@ Write short questions with a preposition to respond to these statements
 ## Listen to four people calling in to a radio program called confessions. Match the pictures with the confessions and correct the statements
 ![alt text](image-21.png)
 - b, 1. Roberts actions didnt affected his classmates badly for the rest of their lives
-- c, 2. Kevins daugther liked baseball. She supported the Yanke
+- c, 2. Kevins daugther liked baseball. She supported the Yankee
 - a, 3. Jane burned her mouth tasting the diners in the restaraunt when she served the soup
 - d, 4. Maggie didnt tell the bus driver about the missing man when they got to Paris
 
@@ -239,3 +239,56 @@ Write short questions with a preposition to respond to these statements
       1. bc there was a smelling guy
    2. Why does she feel guilty?
       1. bc she act rude 
+
+## act
+Word | Antonym(s)
+--- | ---
+fake (adj) | genuine, real, authentic
+like (verb) | dislike, hate, loathe, cant stand
+tiny (adj) | huge, enormous, gigantic
+happiness (noun) | sadness, misery, unhappiness
+guilty (adj) | innocent, blameless, not guilty
+safe (adj) | dangerous, risky, unsafe
+admit (verb) | deny, refuse, reject
+improve (verb) | worsen, decline, deteriorate
+sincere (adj) | insincere, dishonest, fake
+success (noun) | failure, defeat, disaster
+mature (adj) | immature, childish, juvenile
+encourage (verb) | discourage, dishearten, demotivate
+kind/generous (adj) | unkind, mean, selfish
+appear (verb) | disappear, vanish, fade
+
+
+### another act
+words:
+- improve
+- safety
+- success
+- criticize
+- generosity
+- fail
+- stingy
+- encourage
+- get worse 
+- dangera
+
+1.  
+**A:** Gary's a really **unsuccessful** businessman.  
+**B:** Well, he's a complete **success** as a father. He never sees his kids.  
+
+2.  
+**A:** My grandpa’s so **stingy**, he gives me $20 every time I see him.  
+**B:** You’re lucky! My grandpa is famous for his **generosity**.  
+I’m happy if he gives me $5 for my birthday, if he even remembers.  
+
+3.  
+**A:** Well, Henry, I’m pleased there’s been some **improvement** in your behavior this semester, but unfortunately your work has **worsened**.  
+**B:** I guess I didn’t do well on the test, then.  
+
+4.  
+**A:** You’re not going bungee jumping! It sounds really **safe**.  
+**B:** No, honestly, it’s perfectly **dangerous** as long as you’re careful.  
+
+5.  
+**A:** Our teacher is always **encouraging** us. I feel useless.  
+**B:** I know. He should give us more **criticism** if he wants us to work hard.  
