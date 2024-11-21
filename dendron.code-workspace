@@ -3,6 +3,12 @@
         {
             "path": "notes",
             "name": "Dendron"
+        },
+        {
+            "path": "../../../opt/lampp/htdocs/taqueria"
+        },
+        {
+            "path": "../../../opt/lampp/htdocs/cuarto"
         }
     ],
     "settings": {

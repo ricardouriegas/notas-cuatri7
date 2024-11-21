@@ -1,7 +1,7 @@
-
-@startuml nose
+@startuml cuarto
 ' view in vertical direction
 left to right direction
+title Sistema de Inventario del Cuarto
 
 :Administrador: as Admin
 :Usuario: as User
