@@ -2,7 +2,7 @@
 id: 9cr0sas1cansrkfv3bgnj0r
 title: Activities
 desc: ''
-updated: 1732120082722
+updated: 1732126293736
 created: 1730223264146
 ---
 # News and views
@@ -270,7 +270,7 @@ words:
 - stingy
 - encourage
 - get worse 
-- dangera
+- danger
 
 1.  
 **A:** Gary's a really **unsuccessful** businessman.  
