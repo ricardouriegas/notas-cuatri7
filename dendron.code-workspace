@@ -9,6 +9,9 @@
         },
         {
             "path": "../../../opt/lampp/htdocs/cuarto"
+        },
+        {
+            "path": "."
         }
     ],
     "settings": {
