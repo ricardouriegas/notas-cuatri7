@@ -1,8 +1,8 @@
 ---
 id: 6rq19ze2veh6e24l0l0cjvw
-title: Tarea2
+title: Tarea 2
 desc: ''
-updated: 1732212283338
+updated: 1732555410252
 created: 1732212148315
 ---
 ## Conceptos a investigar
