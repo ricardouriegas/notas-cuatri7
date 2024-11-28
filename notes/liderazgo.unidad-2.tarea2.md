@@ -2,10 +2,14 @@
 id: 6rq19ze2veh6e24l0l0cjvw
 title: Tarea 2
 desc: ''
-updated: 1732555410252
+updated: 1732729153291
 created: 1732212148315
 ---
 ## Conceptos a investigar
+> investigar los siguientes conceptos:
+> - explicar el concepto, proposito, etapas y roles del trabajo en equipo
+> - identificar las técnicas de integración grupal  del equipo de trabajo
+> - relacion entre liderazgo y tecnicas de integracion grupal
 
 ### Trabajo en equipo
 - **Concepto**: El trabajo en equipo es la colaboración de un grupo de personas para alcanzar un objetivo común. Implica la combinación de habilidades, conocimientos y experiencias de los miembros del equipo para lograr resultados que no podrían alcanzarse de manera individual.

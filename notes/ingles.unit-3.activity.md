@@ -2,7 +2,7 @@
 id: z8klqbgbdhou9v3diws5d1i
 title: Activity
 desc: ''
-updated: 1732643269213
+updated: 1732728549318
 created: 1732638509639
 ---
 ## Act 1
@@ -74,4 +74,35 @@ Name the different future forms.
    1. How much money is Theo going to be earning in a few years?
    2. Twice what he's earning now.
 
+---
 
+## Practice: Discussing grammar
+
+1. Choose the correct form in the pairs of sentences.
+
+I’ll see / I’m going to see all of my family this weekend.
+Respuesta: I’m going to see (porque ya está planeado).
+
+I don’t know if I’ll have time to come this evening.
+Respuesta: I’ll have (porque es incierto, se usa "will").
+
+2. Are you going to do / Will you do some work for a friend for a year? What if you don’t?
+Respuesta: Will you do (porque es una pregunta más hipotética).
+
+**3. I’ll come / I’m coming with you if you like.
+Respuesta: I’ll come (porque es una oferta espontánea).
+
+**4. What are you doing / will you do about the problem?
+Respuesta: What are you doing (porque se trata de una acción inmediata o planificada).
+
+**5. I’m giving / I’m going to give a speech at 3:00 this afternoon.
+Respuesta: I’m giving (porque es algo planificado y seguro).
+
+**6. Peter leaves / is leaving for school now. Come and say goodbye.
+Respuesta: Peter is leaving (porque está sucediendo en este momento).
+
+**7. I’ll see / I’ll be seeing you outside the movie theater at 8:00.
+Respuesta: I’ll be seeing (porque se refiere a un evento futuro ya organizado).
+
+**8. I’ll see / I have seen him now, because of my job.
+Respuesta: I’ll see (porque se refiere a un futuro cerca

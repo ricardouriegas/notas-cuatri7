@@ -5,13 +5,22 @@
             "name": "Dendron"
         },
         {
-            "path": "../../../opt/lampp/htdocs/taqueria"
-        },
-        {
             "path": "../../../opt/lampp/htdocs/cuarto"
         },
         {
             "path": "."
+        },
+        {
+            "path": "../../../opt/lampp/htdocs/practica05"
+        },
+        {
+            "path": "../Documents/exoesqueleto-tesina"
+        },
+        {
+            "path": "../Documents/proyecto-fomulacion-de-proyectos"
+        },
+        {
+            "path": "../Documents/auditoria"
         }
     ],
     "settings": {
