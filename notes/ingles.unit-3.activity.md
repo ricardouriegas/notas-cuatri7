@@ -2,7 +2,7 @@
 id: z8klqbgbdhou9v3diws5d1i
 title: Activity
 desc: ''
-updated: 1732728549318
+updated: 1732896537843
 created: 1732638509639
 ---
 ## Act 1
@@ -78,31 +78,87 @@ Name the different future forms.
 
 ## Practice: Discussing grammar
 
-1. Choose the correct form in the pairs of sentences.
+1. I'm very excited. I'm going to see all of my family this weekend.
+I don't know if I have time to come this evening. I'll see.
+2. So you're off to India for a year! What are you going to do there?
+I'm sure you will pass your exams, but what will you do if you don't?
+3. I'll come with you if you like.
+I'm coming with you whether you like it or not. 
+4. Your first-quarter grades are terrible. What are you going to do about them?
+What are you doing this evening?
+5. I've had enough of her lazy attitude. I'm going to give her a good talking to.
+I'm giving a presentation at 3:00 this afternoon. I'm scared stiff.
+6. John! Peter is leaving now. Come and say goodbye.
+The bus leaves at 9:00, so don't be late.
+7. I'll see you outside the movie theater at 8:00. I'll be seeing Johnny this 
+afternoon, so I'll tell him your news.
+8. You'll have seen enough of me by the end of
+this vacation. I.'m going to make a success of my life. You'll
+see.
 
-I’ll see / I’m going to see all of my family this weekend.
-Respuesta: I’m going to see (porque ya está planeado).
+## act 2
 
-I don’t know if I’ll have time to come this evening.
-Respuesta: I’ll have (porque es incierto, se usa "will").
+Good afternoon ladies and gentlemen.
 
-2. Are you going to do / Will you do some work for a friend for a year? What if you don’t?
-Respuesta: Will you do (porque es una pregunta más hipotética).
+Welcome aboard this Virgin Atlantic flight to Boston. In a short time we **will take off** (take off). When we **reach** (reach) our cruising speed of 575 miles per hour, we **will be flying** (fly) at 37,000 feet. Our flight time today is six and a half hours. We **will come** (come) in over Newfoundland before heading down the coast to Boston. We **will arrive** (arrive) in Boston at about 5:45 US time. The cabin crew **will serve** (serve) an evening meal during the flight. If you **need** (need) any assistance, just press the call button and a flight attendant **will come** (come) to help you. In case of turbulence, **will you please keep** (keep) your seat belt fastened when you're in your seat.
 
-**3. I’ll come / I’m coming with you if you like.
-Respuesta: I’ll come (porque es una oferta espontánea).
+(Near the end of flight)
 
-**4. What are you doing / will you do about the problem?
-Respuesta: What are you doing (porque se trata de una acción inmediata o planificada).
+In a few moments the cabin crew **will come** (come) around with duty-free shopping. They **will also give out** (give out) landing cards for those who **need** (need) them. In twenty minutes we **will start** (start) our descent into Boston's Logan International Airport, where the temperature is a chilly 37°F – and for the folks from the UK on board that's 3°C – with a chance of snow. Please put your seats in the upright position and remain seated until the plane **comes** (come) to a complete standstill. We hope you **will fly** (fly) again soon with Virgin Atlantic.
 
-**5. I’m giving / I’m going to give a speech at 3:00 this afternoon.
-Respuesta: I’m giving (porque es algo planificado y seguro).
+## act 3
 
-**6. Peter leaves / is leaving for school now. Come and say goodbye.
-Respuesta: Peter is leaving (porque está sucediendo en este momento).
+1. Where **are you going** on vacation this year?
+2. How **are you getting** there?
+3. How long **are you going to be** away for?
+4. Which hotel **are you staying** in?
+5. What time **does your flight arrive**?
+6. What **are you going to do** while you're on vacation?
 
-**7. I’ll see / I’ll be seeing you outside the movie theater at 8:00.
-Respuesta: I’ll be seeing (porque se refiere a un evento futuro ya organizado).
+## Activity
 
-**8. I’ll see / I have seen him now, because of my job.
-Respuesta: I’ll see (porque se refiere a un futuro cerca
+## Ejercicio 2: Completar la tabla
+### Take
+- sth for granted  
+- the pressure off  
+- a risk  
+- part  
+- advice  
+- notice  
+
+### Put
+- my arm around  
+- pressure on  
+- my advice into practice  
+- sth in its place  
+- criticism  
+- forever  
+
+---
+
+## Ejercicio 3: Completar las oraciones
+1. *took place* - The wedding *took place* in an old country church.
+2. *takes after* - My son *takes after* me; he always enjoys spending money.
+3. *put your feet up* - Please go and *put your feet up*; I don’t think your work has been appreciated.
+4. *take your time* - If you really want to make a good job of this, you’ll need to *take your time*.
+5. *put off* - My boss is trying to *put off* the decision, but I won’t go.
+6. *put them to bed* - Children never say “Thank you” or “How are you?” to their parents. They just *put them to bed*.
+
+---
+
+## Ejercicio 4: Phrasal verbs
+1. *take off* - The secretary’s holiday *takes off* a lot of extra work for me.
+2. *put across* - The lecture was too complicated, and the message couldn’t be *put across*.
+3. *put down* - My business collapsed when banks *put down* all new loans.
+4. *put in* - He called me a liar but not before he *put in* an official complaint.
+5. *put up* - It’s very late now; why don’t you *put up* with us tonight?
+
+---
+
+## Ejercicio 5: Emparejar las líneas y subrayar expresiones
+1. *Take your time* - Relax and do it carefully.
+2. *Take part* - Join the activities.
+3. *Put your arm around* - Offer support.
+4. *Take your advice* - Follow someone’s suggestion.
+5. *Put criticism into practice* - Learn from feedback.
+6. *Put forever into the past* - Let go of the bad memories.
