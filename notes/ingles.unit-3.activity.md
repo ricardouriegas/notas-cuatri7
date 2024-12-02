@@ -2,7 +2,7 @@
 id: z8klqbgbdhou9v3diws5d1i
 title: Activity
 desc: ''
-updated: 1733155428938
+updated: 1733155559669
 created: 1732638509639
 ---
 ## Act 1
@@ -147,8 +147,8 @@ In a few moments the cabin crew **will come** (come) around with duty-free shopp
 ---
 
 ## Ejercicio 3: Completar las oraciones
-1. *took place* - The wedding *took place* in an old country church.
-2. *takes after* - My son *takes after* me; he always enjoys spending money.
+1. *took place* - The wedding *took place* in an old country church. It was beautiful, it was miles away **it took forever** to get there
+2. *takes after* - My son always hanging at the mall. but ill **take after** his mother, he's always on the phone.
 3. *put your feet up* - Please go and *put your feet up*; I don’t think your work has been appreciated.
 4. *take your time* - If you really want to make a good job of this, you’ll need to *take your time*.
 5. *put off* - My boss is trying to *put off* the decision, but I won’t go.
