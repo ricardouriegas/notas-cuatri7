@@ -2,7 +2,7 @@
 id: z8klqbgbdhou9v3diws5d1i
 title: Activity
 desc: ''
-updated: 1732896537843
+updated: 1733155428938
 created: 1732638509639
 ---
 ## Act 1
@@ -125,12 +125,22 @@ In a few moments the cabin crew **will come** (come) around with duty-free shopp
 - part  
 - advice  
 - notice  
+- my advice
+- place
+- offense
+- criticism
+- no notice
+- forever
 
 ### Put
 - my arm around  
 - pressure on  
 - my advice into practice  
+- somebody in charge of
+- a plan into practice
+- pressure on sb
 - sth in its place  
+- his work first
 - criticism  
 - forever  
 
