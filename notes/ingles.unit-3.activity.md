@@ -2,7 +2,7 @@
 id: z8klqbgbdhou9v3diws5d1i
 title: Activity
 desc: ''
-updated: 1733155559669
+updated: 1733247628337
 created: 1732638509639
 ---
 ## Act 1
@@ -172,3 +172,54 @@ In a few moments the cabin crew **will come** (come) around with duty-free shopp
 4. *Take your advice* - Follow someone’s suggestion.
 5. *Put criticism into practice* - Learn from feedback.
 6. *Put forever into the past* - Let go of the bad memories.
+
+## Activity. Hitting the Big Time
+1. *a few*:  
+   - cars  
+   - holdups  
+
+2. *not many*:  
+   - crimes  
+   - criminals  
+
+3. *several*:  
+   - times  
+   - letters  
+
+4. *very little*:  
+   - time  
+   - hope  
+
+5. *not much*:  
+   - unemployment  
+   - work  
+
+6. *a bit of*:  
+   - luck  
+   - knowledge  
+
+7. *a lot of*:  
+   - enthusiasm  
+   - energy  
+
+8. *enough*:  
+   - food  
+   - knives  
+
+9. *plenty of*:  
+   - fresh air  
+   - fluids  
+
+10. *hardly any*:  
+    - money  
+    - experience
+
+### Exercise: Complete the Questions
+1. How **many** cookbooks has she written?  
+2. How **many** cookbooks has she sold over the years?  
+3. How **much** time has she spent improving diets for US kids?  
+4. How **long** did she work at Macy’s Marketplace?  
+5. How **much** time does it take to make one of her recipes?  
+6. How **many** ingredients did she use to make her meals?  
+7. How **much** experience did she have when she was first on TV?  
+8. How **many** children do she and her husband have?
