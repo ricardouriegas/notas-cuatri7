@@ -2,7 +2,7 @@
 id: z8klqbgbdhou9v3diws5d1i
 title: Activity
 desc: ''
-updated: 1733247628337
+updated: 1733248684810
 created: 1732638509639
 ---
 ## Act 1
@@ -179,6 +179,7 @@ In a few moments the cabin crew **will come** (come) around with duty-free shopp
    - holdups  
 
 2. *not many*:  
+   - accidents
    - crimes  
    - criminals  
 
@@ -200,26 +201,43 @@ In a few moments the cabin crew **will come** (come) around with duty-free shopp
 
 7. *a lot of*:  
    - enthusiasm  
-   - energy  
+   - energy
 
 8. *enough*:  
    - food  
    - knives  
 
-9. *plenty of*:  
+9.  *plenty of*:  
    - fresh air  
    - fluids  
+   - sleep
+   - walks
 
 10. *hardly any*:  
     - money  
     - experience
+    - friends
 
 ### Exercise: Complete the Questions
 1. How **many** cookbooks has she written?  
+   1. over 20
 2. How **many** cookbooks has she sold over the years?  
+   1. more than 1 million copies
 3. How **much** time has she spent improving diets for US kids?  
+   1. since 2006
 4. How **long** did she work at Macy’s Marketplace?  
+   1. 2 years
 5. How **much** time does it take to make one of her recipes?  
+   1. 30 minutes
 6. How **many** ingredients did she use to make her meals?  
+   1. few
 7. How **much** experience did she have when she was first on TV?  
+   1. hardly any
 8. How **many** children do she and her husband have?
+   1. they dont have any children
+
+### nos
+1. a & _
+2. _ & a
+3. _ & a
+4. a & _

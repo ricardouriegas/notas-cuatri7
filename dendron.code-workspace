@@ -1,26 +1,35 @@
 {
     "folders": [
         {
-            "path": "notes",
-            "name": "Dendron"
+            "name": "Dendron",
+            "path": "notes"
         },
         {
+            "name": "cuarto",
             "path": "../../../opt/lampp/htdocs/cuarto"
         },
         {
+            "name": "notas-cuatri7",
             "path": "."
         },
         {
+            "name": "practica05",
             "path": "../../../opt/lampp/htdocs/practica05"
         },
         {
+            "name": "exoesqueleto-tesina",
             "path": "../Documents/exoesqueleto-tesina"
         },
         {
+            "name": "proyecto-fomulacion-de-proyectos",
             "path": "../Documents/proyecto-fomulacion-de-proyectos"
         },
         {
+            "name": "auditoria",
             "path": "../Documents/auditoria"
+        },
+        {
+            "path": "../Documents/SistemaDeTaqueria"
         }
     ],
     "settings": {
